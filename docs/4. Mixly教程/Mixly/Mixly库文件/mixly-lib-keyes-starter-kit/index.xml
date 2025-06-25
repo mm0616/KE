@@ -1,0 +1,226 @@
+<script defer src="main.bundle.js"></script>
+<category id="starter_kit" name="keyes 基础套件" colour="20">
+
+  <!--                  控制输出                 -->
+  <category id="controloutput1" name="数字输出" colour="20">
+
+    <!--          LED灯          -->
+    <block type="basic_led1">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+    </block>
+    <block type="basic_led2">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+    </block>
+    <block type="basic_led3">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+    </block>
+    <block type="basic_led4">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+    </block>
+
+    <!--          PWM输出          -->
+    <block type="basic_a_Write">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+      <value name="num">
+        <shadow type="math_number">
+          <field name="NUM">0</field>
+        </shadow>
+      </value>
+    </block>
+
+
+    <block type="basic_rgb01">
+      <value name="R">
+        <shadow type="pins_digital">3</shadow>
+      </value>
+      <value name="r">
+        <shadow type="math_number">
+          <field name="NUM">0</field>
+        </shadow>
+      </value>
+      <value name="G">
+        <shadow type="pins_digital">5</shadow>
+      </value>
+      <value name="g">
+        <shadow type="math_number">
+          <field name="NUM">0</field>
+        </shadow>
+      </value>
+      <value name="B">
+        <shadow type="pins_digital">6</shadow>
+      </value>
+      <value name="b">
+        <shadow type="math_number">
+          <field name="NUM">0</field>
+        </shadow>
+      </value>
+    </block>
+
+
+    <block type="basic_y_buzzer">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+    </block>
+    <block type="basic_tone">
+      <value name="tone">
+        <shadow type="FREQUENCY"></shadow>
+      </value>
+    </block>
+    <block type="basic_w_buzzer2">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+      <value name="FREQUENCY">
+        <shadow type="basic_tone"></shadow>
+      </value>
+    </block>
+    <block type="basic_w_buzzer1">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+    </block>
+    <block type="basic_w_buzzer3">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+      <value name="FREQUENCY">
+        <shadow type="basic_tone"></shadow>
+      </value>
+
+      <value name="DURATION">
+        <shadow type="math_number">
+          <field name="NUM">1000</field>
+        </shadow>
+      </value>
+    </block>
+    <block type="basic_motor">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+    </block>
+  </category>
+
+
+  <!--                数字传感器              -->
+  <category id="digitalRead" name="数字输入" colour="20">
+
+    <!--          火焰传感器               -->
+    <block type="basic_flame">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+    </block>
+
+
+    <!--          按键传感器               -->
+    <block type="basic_button">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+    </block>
+
+
+    <!--          倾斜传感器               -->
+    <block type="basic_tilt">
+      <value name="PIN">
+        <shadow type="pins_digital"></shadow>
+      </value>
+    </block>
+
+
+  </category>
+
+  <!--               模拟传感器              -->
+  <category id="analogRead" name="模拟输入" colour="20">
+
+    <!--              模拟温度传感器              -->
+    <block type="basic_analog_t">
+      <value name="PIN">
+        <shadow type="pins_analog"></shadow>
+      </value>
+    </block>
+
+    <!--              光线传感器              -->
+    <block type="basic_light">
+      <value name="PIN">
+        <shadow type="pins_analog"></shadow>
+      </value>
+    </block>
+
+    <!--              电位器传感器              -->
+    <block type="basic_potentiometer">
+      <value name="PIN">
+        <shadow type="pins_analog"></shadow>
+      </value>
+    </block>
+  </category>
+
+  <category id="print" name="显示屏" colour="20">
+
+    <!--           1位数码管              -->
+    <block type="basic_seg1">
+      <value name="num">
+        <shadow type="math_number">
+          <field name="NUM">0</field>
+        </shadow>
+      </value>
+    </block>
+
+    <!--           4位数码管              -->
+    <block type="basic_seg4">
+      <value name="num">
+        <shadow type="math_number">
+          <field name="NUM">0</field>
+        </shadow>
+      </value>
+    </block>
+
+    <!--                1602LCD                    -->
+    <block type="basic_1602lcd">
+      <value name="TEXT1">
+        <block type="text">
+          <field name="TEXT1"></field>
+        </block>
+      </value>
+      <value name="TEXT2">
+        <block type="text">
+          <field name="TEXT2"></field>
+        </block>
+      </value>
+    </block>
+
+    <!--                点阵8*8                    -->
+    <block type="basic_matrix_init" name="点阵屏显示_初始化"></block>
+
+    <block type="basic_matrix1" name="点阵屏显示_显示图案">
+      <value name="LEDArray">
+        <block type="basic_matrix2"></block>
+      </value>
+    </block>
+
+    <block type="basic_matrix8">
+      <value name="num">
+        <shadow type="math_number">
+          <field name="NUM">0</field>
+        </shadow>
+      </value>
+    </block>
+    <!--
+		<block type="basic_matrix_clear" name="点阵屏显示_清屏">
+
+		</block>
+-->
+
+  </category>
+</category>
