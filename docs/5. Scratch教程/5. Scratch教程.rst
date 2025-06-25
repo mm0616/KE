@@ -9,7 +9,7 @@
 5.2 软件安装（Windows系统）
 ---------------------------
 
-1. 点击链接 https://xiazai.keyesrobot.cn/KidsBlock.exe下载软件。
+1. 点击链接 https://xiazai.keyesrobot.cn/KidsBlock.exe 下载软件。
 
 2. 双击软件安装包\ |image1|\ ，选择\ **“仅为我安装”**\ ，选择\ **“下一步(N)”**\ 。
 
