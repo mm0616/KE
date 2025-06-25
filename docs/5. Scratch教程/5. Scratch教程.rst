@@ -4,7 +4,7 @@
 5.1 下载课程
 ------------
 
-- `Scratch课程 <./Scratch.7z>`__
+:download:`Scratch课程 <./Scratch.7z>`
 
 5.2 软件安装（Windows系统）
 ---------------------------
