@@ -30,7 +30,6 @@ Mac驱动下载：:download:`Mac驱动 <./Mac.7z>`
 .. figure:: ./media/4-1748577322114-2.png
    :alt: image-20250528023804455
 
-
 4.驱动安装
 
 1、鼠标右击\ **“CP2102 USB to UART Bridge
@@ -63,23 +62,15 @@ Controller”**\ ，弹出框中选择\ **“更新驱动程序（P）”**.
 
 2、双击解压下载的驱动压缩包
 
-.. figure:: ./media/截屏2025-06-25%2012.18.46.png
-   :alt: 截屏2025-06-25 12.18.46
+|image10|
 
-.. figure:: ./media/截屏2025-06-23%2011.14.35.png
-   :alt: 截屏2025-06-23 11.14.35
+|image11|
 
-
-.. figure:: ./media/截屏2025-06-23%2011.14.45.png
-   :alt: 截屏2025-06-23 11.14.45
-
+|image12|
 
 然后一直\ **“下一步”**\ 安装，直到安装完成
 
-.. figure:: ./media/7cca827fe946096f228797dadce10661.png
-   :alt: image28
-
-   image28
+|image13|
 
 .. |image1| image:: ./media/1-1748577322113-1.png
 .. |image2| image:: ./media/2-1748577322114-3.png
@@ -90,3 +81,7 @@ Controller”**\ ，弹出框中选择\ **“更新驱动程序（P）”**.
 .. |image7| image:: ./media/9-1748577322114-9.png
 .. |image8| image:: ./media/image-20250610160218555.png
 .. |image9| image:: ./media/1-1748577322113-1.png
+.. |image10| image:: ./media/1.png
+.. |image11| image:: ./media/3.png
+.. |image12| image:: ./media/2.png
+.. |image13| image:: ./media/7cca827fe946096f228797dadce10661.png
