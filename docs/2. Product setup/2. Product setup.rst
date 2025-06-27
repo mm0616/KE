@@ -10,8 +10,10 @@ Step 1
 
 Needed Components:
 |image2|
+
 Installation Diagram: 
 |image3|
+
 Prototype:
 |image4|
 
@@ -20,8 +22,10 @@ Step 2
 
 Needed Components:
 |image5|
+
 Installation Diagram: 
 |image6|
+
 Prototype:
 |image7|
 
@@ -30,8 +34,10 @@ Step 3
 
 Needed Components:
 |image8|
+
 Installation Diagram:
 |image9|
+
 Prototype:
 |image10|
 
@@ -40,8 +46,10 @@ Step 4
 
 Needed Components:
 |image11|
+
 Installation Diagram:
 |image12|
+
 Prototype:
 |image13|
 
@@ -50,8 +58,10 @@ Step 5
 
 Needed Components:
 |image14|
+
 Installation Diagram:
 |image15|
+
 Prototype:
 |image16|
 Set the angle of the Servo which controls the window to 90°:
@@ -82,9 +92,11 @@ Step 6
 
 Needed Components:
 |image19|
+
 Installation Diagram:
 (Please do nottighten the self-locking nut when installing it. The window is closed during installation as shown below:)
 |image20|
+
 Prototype:
 |image21|
 
@@ -93,8 +105,10 @@ Step 7
 
 Needed Components:
 |image22|
+
 Installation Diagram:
 |image23|
+
 Prototype:
 |image24|
 
@@ -103,8 +117,10 @@ Step 8
 
 Needed Components:
 |image25|
+
 Installation Diagram:
 |image26|
+
 Prototype:
 |image27|
 
@@ -113,8 +129,10 @@ Step 9
 
 Needed Components:
 |image28|
+
 Installation Diagram:
 |image29|
+
 Prototype:
 |image30|
 
@@ -123,8 +141,10 @@ Step 10
 
 Needed Components:
 |image31|
+
 Installation Diagram:
 |image32|
+
 Prototype:
 |image33|
 
@@ -133,8 +153,10 @@ Step 11
 
 Needed Components:
 |image34|
+
 Installation Diagram:
 |image35|
+
 Prototype:
 |image36|
 
@@ -168,8 +190,10 @@ Step 13
 
 Needed Components:
 |image41|
+
 Installation Diagram:
 |image42|
+
 Prototype:
 |image43|
 
@@ -178,8 +202,10 @@ Step 14
 
 Needed Components:
 |image44|
+
 Installation Diagram:
 |image45|
+
 Prototype:
 |image46|
 
@@ -188,8 +214,10 @@ Step 15
 
 Needed Components:
 |image47|
+
 Installation Diagram:
 |image48|
+
 Prototype:
 |image49|
 
@@ -198,8 +226,10 @@ Step 16
 
 Needed Components:
 |image50|
+
 Installation Diagram:
 |image51|
+
 Prototype:
 |image52|
 
@@ -208,8 +238,10 @@ Step 17
 
 Needed Components:
 |image53|
+
 Installation Diagram:
 |image54|
+
 Prototype:
 |image55|
 
@@ -218,8 +250,10 @@ Step 18
 
 Needed Components:
 |image56|
+
 Installation Diagram:
 |image57|
+
 Prototype:
 |image58|
 
@@ -228,8 +262,10 @@ Step 19
 
 Needed Components:
 |image59|
+
 Installation Diagram:
 |image60|
+
 Prototype:
 |image61|
 
