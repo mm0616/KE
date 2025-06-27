@@ -9,36 +9,28 @@
 
 1、Connect the motherboard to the computer.
 
-.. figure:: ./media/KES0486连接电脑%20拷贝.jpg
-   :alt: KES0486连接电脑 拷贝
-
-
+|image1|
 
 2、Open Device Manager，Open the device manager, if the prompt
 **“Silicon Labs CP210x USB to UART Bridge (COMx)”** appears to prove
 that the driver has been installed, please skip the **“Driver
 installation”** part.
 
-.. figure:: ./media/Animation.gif
-   :alt: Animation
-
+|image2|
 
 1.2 Manual driver installation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1、Driver download
 
-- Windowns System:  :download:`Windowns System driver <./Window.7z>`
+- Windowns System::download:`Windowns System driver <./Window.7z>`
 
 2、Connect the motherboard to the computer, open the device manager, if
 there is a yellow exclamation mark in front of the driver in the
 picture, it proves that the driver is not installed, please download the
 driver and install it manually.
 
-.. figure:: ./media/Animation-1750921346712-3.gif
-   :alt: Animation
-
-   Animation
+|image3|
 
 二、MAC System
 --------------
@@ -60,9 +52,7 @@ please replace the computer USB port or around the phone cable to
 re-recognize the port, if it still does not work refer to the following
 steps to install the driver.
 
-.. figure:: ./media/截屏2025-06-26%2015.43.43.png
-   :alt: 截屏2025-06-26 15.43.43
-
+|image4|
 
 .. _manual-driver-installation-1:
 
@@ -71,28 +61,20 @@ steps to install the driver.
 
 1、Driver download
 
-Mac System:  :download:`Mac System driver <./Mac.7z>`
+Mac System::download:`Mac System driver <./Mac.7z>`
 
 2、double-click to decompress the downloaded driver zip package
 
-.. figure:: ./media/image-20250417083615847-1749262759458-8.png
-   :alt: image-20250417083615847-1749262759458-8
+|image5|
 
+|image6|
 
-.. figure:: ./media/image-20250417083758947-1749262759458-7.png
-   :alt: image-20250417083758947-1749262759458-7
-
-
-.. figure:: ./media/image-20250417083918581-1749262759458-5.png
-   :alt: image-20250417083918581-1749262759458-5
-
+|image7|
 
 3、After that keep **“Next ”** installing until the installation is
 complete
 
-.. figure:: ./media/7cca827fe946096f228797dadce10661.png
-   :alt: 7cca827fe946096f228797dadce10661
-
+|image8|
 
 At this point, the port can be recognized by plugging in the board
 again.
@@ -100,14 +82,21 @@ again.
 4、Then go to the Arduino IDE, click on “Tools”, select the board
 Arduino Uno and the recognized development board port。
 
-.. figure:: ./media/截屏2025-06-26%2015.55.14.png
-   :alt: 截屏2025-06-26 15.55.14
-
+|image9|
 
 16.Click\ |image-20250417085312966|\ to upload code and show “Done
 uploading”.
 
-.. figure:: ./media/截屏2025-06-26%2015.55.14-1750924665950-2.png
-   :alt: 截屏2025-06-26 15.55.14
+|image10|
 
+.. |image1| image:: ./media/1.jpg
+.. |image2| image:: ./media/Animation.gif
+.. |image3| image:: ./media/Animation-1750921346712-3.gif
+.. |image4| image:: ./media/截屏2025-06-26%2015.43.43.png
+.. |image5| image:: ./media/image-20250417083615847-1749262759458-8.png
+.. |image6| image:: ./media/image-20250417083758947-1749262759458-7.png
+.. |image7| image:: ./media/image-20250417083918581-1749262759458-5.png
+.. |image8| image:: ./media/7cca827fe946096f228797dadce10661.png
+.. |image9| image:: ./media/2.png
 .. |image-20250417085312966| image:: ./media/image-20250417085312966-1749262759459-18.png
+.. |image10| image:: ./media/3.png
