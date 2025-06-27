@@ -13,7 +13,7 @@ Data download： :download:`Data download <./Scratch.7z>`
 -------------------------------------------
 
 1. Download
-   kidsblock:  https://wiki.kidsbits.cc/projects/KidsBlock/en/latest/
+   kidsblock:   https://wiki.kidsbits.cc/projects/KidsBlock/en/latest
 
    |image1|
 
@@ -28,7 +28,7 @@ First connect the development board to the computer
 5.3 Software installation of Mac System
 ---------------------------------------
 
-1.Download kidsblock: www.kidsbits.net/Down/KidsBlockDesktop1.1.3.dmg.
+1.Download kidsblock:  www.kidsbits.net/Down/KidsBlockDesktop1.1.3.dmg
 |Img|
 
 2.Click KidsBlock, and drag KidsBlock Desktop into Applications.
