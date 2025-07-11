@@ -5,7 +5,7 @@ Kidsblock Software
 -----------------------------------------
 
 1. Download
-   kidsblock:https://wiki.kidsbits.cc/projects/KidsBlock/en/latest/
+   kidsblock: https://wiki.kidsbits.cc/projects/KidsBlock/en/latest/
 
    |image1|
 
