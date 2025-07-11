@@ -4,7 +4,7 @@ KidsBlock Software
 1.Software installation of Windows System
 -----------------------------------------
 
-1. Download kidsblock: https://xiazai.keyesrobot.cn/KidsBlock.exe
+1. Download kidsblock:https://xiazai.keyesrobot.cn/KidsBlock.exe
 
    .. figure:: ./media/qq.gif
       :alt: qq
@@ -24,7 +24,7 @@ KidsBlock Software
 
 
 3. How to use KidsBlock
-=======================
+-----------------------
 
 1、operating software
 
@@ -39,6 +39,7 @@ Install driver（MAC)
 
 .. figure:: ./media/qqq.gif
    :alt: qqq
+
 
 Install driver（Windows)
 
