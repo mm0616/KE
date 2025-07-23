@@ -189,7 +189,7 @@ IDE操作方法一致，可以参考。**
 -----------------------
 
 **特别提醒：
-ESP32开发板资源地址：https://espressif.github.io/arduino-esp32/package_esp32_index.json**
+ESP32开发板资源地址： https://espressif.github.io/arduino-esp32/package_esp32_index.json**
 
 Windows和Mac系统操作方法均如下
 
@@ -198,7 +198,7 @@ Windows和Mac系统操作方法均如下
 
 
 **假如，由于网络问题实在是下载安装不了ESP32开发板，我们也提供有ESP32开发板的压缩包**\ ，\ **ESP32开发板的压缩包下载地址：**
-https://pan.baidu.com/s/10mfU2_aNru2dizP0vAFXlw?pwd=95ih
+ https://pan.baidu.com/s/10mfU2_aNru2dizP0vAFXlw?pwd=95ih
 
 **提取码：95ih**
 
@@ -241,7 +241,7 @@ https://pan.baidu.com/s/10mfU2_aNru2dizP0vAFXlw?pwd=95ih
 树莓派pico环境下载
 ~~~~~~~~~~~~~~~~~~
 
-**特别提醒：树莓派Pico开发板资源地址：https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json**
+**特别提醒：树莓派Pico开发板资源地址： https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json**
 
 以下两种开发环境请根据实际产品教程选择
 
