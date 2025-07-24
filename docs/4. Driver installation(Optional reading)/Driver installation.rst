@@ -68,7 +68,6 @@ steps to install the driver.
 .. figure:: media/4.gif
    :alt: qqqq8
 
-
 At this point, the port can be recognized by plugging in the board
 again.
 

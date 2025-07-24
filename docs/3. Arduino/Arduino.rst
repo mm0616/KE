@@ -7,7 +7,7 @@
 Arduino information contains library files and project code ,please
 click to download for follow-up study.
 
-Data download: :download:`Arduino Data <./Arduino.7z>`
+Data download:  :download:`Arduino Data <./Arduino.7z>`
 
 3.2 Software Download
 ---------------------

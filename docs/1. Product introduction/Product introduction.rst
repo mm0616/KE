@@ -26,6 +26,14 @@ code. Starting from the basic control principles of the MPU6050 six-axis
 accelerometer module to complex gesture control, you can easily get
 started and master the techniques.
 
+.. raw:: html
+
+   <iframe width="1960" height="1080" src="https://youtu.be/JFJmut94Jpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+.. raw:: html
+
+   </iframe>
+
 1.2 Features
 ------------
 
