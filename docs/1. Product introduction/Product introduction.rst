@@ -28,7 +28,7 @@ started and master the techniques.
 
 .. raw:: html
 
-   <iframe width="1960" height="1080" src="https://youtu.be/JFJmut94Jpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+   <iframe width="951" height="535" src="https://www.youtube.com/embed/JFJmut94Jpc" title="KS0470 Keyestudio 4WD BT Robot Car V2.0 Kit for Arduino" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 .. raw:: html
 

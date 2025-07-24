@@ -23,6 +23,7 @@ driver manually.
 .. figure:: media/1.gif
    :alt: qqq
 
+   qqq
 
 **Manual driver installation**
 
@@ -37,6 +38,7 @@ driver manually.
 
 .. figure:: media/2.gif
    :alt: qqqq
+
 
 4.2 MAC System
 --------------
@@ -67,6 +69,8 @@ steps to install the driver.
 
 .. figure:: media/4.gif
    :alt: qqqq8
+
+
 
 At this point, the port can be recognized by plugging in the board
 again.
