@@ -81,7 +81,7 @@
 
 请按如图接好线，根据需要选择调整舵机的代码下载
 
-1. Arduino： :download:`Arduino <./Arduino>`
+1. Arduino： :download:`Arduino <./Arduino.7z>`
 
    |image18|
 
@@ -89,7 +89,7 @@
 
    |image19|
 
-3. Mixly:   :download`Mixly <./Mixly.7z>`
+3. Mixly:   :download:`Mixly <./Mixly.7z>`
 
    |image20|
 
