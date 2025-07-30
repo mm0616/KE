@@ -6,7 +6,7 @@
 
 \ **Arduino资料包含库文件和项目代码，请先点击下载进行后续的学习！！！！**\ 
 
-下载： :download:`Arduino资料 <./Arduino>`
+下载： :download:`Arduino资料 <./Arduino.7z>`
 
 APP下载：:download:`APP <./APP.7z>`
 
