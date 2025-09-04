@@ -1,4 +1,0 @@
-Project 1 Heartbeat
-
- :download:`下载Project1文件 <./Code/Project1.hex>`
-
