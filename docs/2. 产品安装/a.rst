@@ -1,6 +1,3 @@
-Keyestudio Micro:bit V2.0 Basic Starter Kit
-===========================================
-
 1.Getting Started with Micro:bit
 --------------------------------
 
@@ -73,265 +70,19 @@ The functions of each button on the Toolbar are listed below:
 
    Snipaste_2025-09-03_19-18-36
 
-.. raw:: html
-
-   <table>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-New
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Opens up a new Terminal
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Open
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Opens a saved Connection
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Save
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Saves the current Connection to disk
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Connect
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Opens the Serial Connection
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Disconnect
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Closes the Serial Connection
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Clear Data
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Clears the Received Data
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Options
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Opens the Connection Options Dialog
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-HEX
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Displays the Terminal Data in Hexadecimal Format
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-View
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Displays the Help Window
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </table>
+========== ================================================
+Command    Description
+========== ================================================
+New        Opens up a new Terminal
+Open       Opens a saved Connection
+Save       Saves the current Connection to disk
+Connect    Opens the Serial Connection
+Disconnect Closes the Serial Connection
+Clear Data Clears the Received Data
+Options    Opens the Connection Options Dialog
+HEX        Displays the Terminal Data in Hexadecimal Format
+View       Displays the Help Window
+========== ================================================
 
 After installation is complete, we will use this tool in our subsequent
 lessons.
@@ -413,7 +164,7 @@ Project 2: Light A Single LED
 .. _project-description-1:
 
 (1)Project Description:
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 (1)Project Description:The LED dot matrix consists of 25 LEDs arranged
 in a 5 by 5 square. In order to locate these LEDs quickly, as the figure
@@ -538,7 +289,7 @@ Micro USB cable
 .. _test-code-1-1:
 
 (3)Test Code 1:
----------------
+~~~~~~~~~~~~~~~
 
 Link computer with micro:bit board by micro USB cable, and program in
 MakeCode editor.
@@ -1112,7 +863,6 @@ Project 7: Accelerometer
 |image81|
 
  :download:`Click to download the code 1 for this lesson <./Code/Project71.hex>`
-
  :download:`Click to download the code 2 for this lesson <./Code/Project72.hex>`
 
 .. _project-description-6:
@@ -1777,108 +1527,43 @@ cable.
 
 An Apple device (a phone or an iPad) or an Android device;
 
-(3) Procedures:
-~~~~~~~~~~~~~~~
+(3) Install Micro:bit:
+~~~~~~~~~~~~~~~~~~~~~~
 
-For Apple devices, enter this link https://www.microbit.org/get-
-started/user- guide/ble- ios/ with your computer first, and then click
-“Download pairing HEX file” to download the Micro: Bit firmware to a
-folder or desk, and upload the downloaded firmware to the Micro: Bit
-main board V2
+For Android
 
-|image141|
+.. figure:: ./images/Animation7.gif
+   :alt: Animation7
 
-If you need help
-================
+   Animation7
 
-If you’re having problems flashing code from your iOS device to your
-micro:bit, download this HEX file and transfer it to your micro:bit from
-a computer, or visit our support site.
+For ios
 
-|image142|
+.. figure:: ./images/Animation8.gif
+   :alt: Animation8
 
-Monitor and control
-===================
+   Animation8
 
-The ‘Monitor and control’ section of the iOS app allows you to observe
-real- time data from the micro:bit sensors, send messages directly to
-the LEDs and control the micro:bit buttons and pins from your iPad or
-iPhone.
+(4)Test Code :
 
-|image143|
+Next, we’ll use our phones to write code and connect via Bluetooth
+(Note: The process is identical for both Android and iOS devices; this
+demonstration uses an Android phone).
 
-|image144|
+.. figure:: ./images/Honeycam%202025-09-04%2020-21-51.webp
+   :alt: Honeycam 2025-09-04 20-21-51
 
-Search “micro bit” in your App Store to download the APP micro:bit.
+   Honeycam 2025-09-04 20-21-51
 
-|image145|
+Here, we have completed the process of uploading code to the phone. It
+is important to note:
 
-Connect your Apple device with Micro: Bit main board V2: Firstly, turn
-on the Bluetooth of your Apple device and open the APP micro:bit to
-select item “Choose micro:bit” to start pairing Bluetooth. Please make
-sure that the Micro: Bit main board V2 and your computer are still
-linked via the USB cable.
-
-|image146|
-
-Secondly, click “Pair a new micro:bit”;
-
-|image147|
-
-Following the instructions to press button A and B at the same time(do
-not release them until you are told to) and press Reset & Power button
-for a few seconds. Release the Reset & Power button, you will see a
-password pattern shows on the LED dot matrix. Now, release buttons A and
-B and click Next.
-
-|image148|
-
-|image149|
-
-Set the password pattern on your Apple device as the same pattern showed
-on the matrix and click Next.
-
-|image150|
-
-Still click Next and a dialog box props up as shown below. Then click
-“Pair”. A few seconds later, the match is done and the LED dot matrix
-displays the “√” pattern.
-
-|image151|
-
-|image152|
-
-|image153|
-
-After the match with Bluetooth, write and upload code with the App.
-
-Click “Create Code” to enter the programming page and write code.
-
-|image154|
-
-|image155|
-
-|image156|
-
-Name the code as “1”and click to save it.
-
-|image157|
-
-Click the third item “Flash” to enter the uploading page. The default
-code program for uploading is the one saved just now and named “1” and
-then click the other “Flash” to upload the code program “1”.
-
-|image158|
-
-|image159|
-
-|image160|
-
-If the code is uploaded successfully a few seconds later, the App will
-emerge as below and the LED dot matrix of the Micro: Bit main board V2
-will exhibit a heart pattern.
-
-|image161|
+1. To connect the phone to the Microbit board, press the A, B, and Reset
+   buttons in sequence. The dot matrix display will then show a pattern,
+   which should be entered into the phone.
+2. The Microbit board can be powered via a USB cable or by supplying 3V
+   to the board’s power input through a battery pack. Note: The voltage
+   must not exceed 3V, as exceeding this limit will damage the board.
 
 .. |image1| image:: ./images/image-20250903152629814.png
 .. |image2| image:: ./images/image-20250903153355910.png
@@ -2030,24 +1715,3 @@ will exhibit a heart pattern.
 .. |image138| image:: images/533ba64e49d50055b9d389335667f9be02948c0db581e9d9c460961b9ccf6efd.jpg
 .. |image139| image:: images/11b5740fdc12848b090b7e81c756d2d852588fa022cc5bc0c792bad3b7e5c4d0.jpg
 .. |image140| image:: images/a3c30945c6505259c61d60561c2d386c585af52178719c4c3a6bc38fd776aa9c.jpg
-.. |image141| image:: images/5a1b3f35f7b4d1236affcdd26ef81f596bf34d41f3f9347cc95fbef32e3d2270.jpg
-.. |image142| image:: images/6207a34ad3b0274a1c361d14388886cfb24d032ad8042c1459b535513e8c1d12.jpg
-.. |image143| image:: images/eb1e79979656b23f43295bc9de3e628fd71e2565f4f75083c9ffa10316f3a779.jpg
-.. |image144| image:: images/2af831b49ff6be4af6f2526cee91bb5b9cb19f8c78c824f4b0e5e16a92bc4166.jpg
-.. |image145| image:: images/df173c142f3af136e8a511c005bb734f4f61583591d4455de138c6585b0d2d21.jpg
-.. |image146| image:: images/db9f9958afd42ac21c0f75ea6f9548f991d061e31f09f305a1f0256e2b516224.jpg
-.. |image147| image:: images/49a428fbd7a41fb31692987ed5b2020692f889a9104389358b3a4bad6c0b1a62.jpg
-.. |image148| image:: images/76486c6a450aa7643ccfb6da2dd18a7b529915d8ec27f48bfae43f012d0c9912.jpg
-.. |image149| image:: images/0f0dead1377db5909105c71611a6720b76d00bce5f43cbd8be40e35c1a67c8b3.jpg
-.. |image150| image:: images/fa240a0652f66c9b108db385fa05a8c77925a7d2cd42ae55b7726fd38862e348.jpg
-.. |image151| image:: images/6faea946daed4f0bba8d201d2ed1680716596cb4439ff3100ed2ad48efed6518.jpg
-.. |image152| image:: images/9f1eb7a608dea89cfec2fb76f75817e6f0ec6ec3fb981a2152d54abb6986e732.jpg
-.. |image153| image:: images/a8896589bd39aede9fc8b9663c373d2f92529a2d4371500ed8e57a2c83aaa269.jpg
-.. |image154| image:: images/a1daca8f0321168f2f2bad619884f61bc5533baf3ed8464656be1929c18b0aa4.jpg
-.. |image155| image:: images/77afce920b28d307d71c5600f09463174aab5654bacebfea7cc86cc05641401f.jpg
-.. |image156| image:: images/08db4335a7afaa1f956824a525a40e340c0f005f2889fba87dbae6129c7147c7.jpg
-.. |image157| image:: images/2150706f222da8b562c65c1985a61624118a85bb14a5f1e3d67ea9c44b4c6610.jpg
-.. |image158| image:: images/5b591f39662fefe902832371d8746525fecbddf4cbfd3ec414f4015f55e70c3c.jpg
-.. |image159| image:: images/a5fb680846fc27347f8fb694e2db0a91a5766fc4fd5b148f02cc928f1f93e474.jpg
-.. |image160| image:: images/a9ba11c4c87e1565ba0c9cf7f4ff176f405df1d67c7095e5ffb7c63161cf1ec3.jpg
-.. |image161| image:: images/9e2ac790e5210f5d2747565a0f58771e03de671e34b208f4e0755e43d6080148.jpg
