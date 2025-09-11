@@ -14,7 +14,7 @@ APP download:
 Tank Car Android download: `Tank
 Car <https://xiazai.keyesrobot.cn/APP/Tank%20Car.apk>`__
 
-HC_BLE download: :download`APP <./APP.7z>`
+HC_BLE download: :download:`APP <./APP.7z>`
 
 4.2 Software Download
 ---------------------
