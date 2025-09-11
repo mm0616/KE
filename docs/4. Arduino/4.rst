@@ -58,14 +58,12 @@ download.
 
 We will introduce the most simple way for you to add libraries .
 
-.. figure:: ./media/2025-09-10%2019-37-51.gif
-   :alt: 2025-09-10 19-37-51
-
-   2025-09-10 19-37-51
+|image4|
 
 .. |image1| image:: ./media/Animati.gif
 .. |image2| image:: ./media/Animat.gif
 .. |image3| image:: ./media/Anima.gif
+.. |image4| image:: ./media/20250910193751.gif
 
 
 4.5 Project
@@ -73,6 +71,7 @@ We will introduce the most simple way for you to add libraries .
 
 .. toctree::
     :maxdepth: 1
+
 
     Project/Project1
     Project/Project2
