@@ -4,8 +4,11 @@
    :caption: Contents:
 
 
-   docs/1. Introduction/a
-   docs/2.Tutorial/b
+   docs/1.Introduction
+   docs/2.Assemble the Robot Car
+   docs/3.MakecodeTutorial
+   docs/4.MicroPythonTutorial
+
 
 
 
