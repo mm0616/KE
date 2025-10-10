@@ -6,7 +6,7 @@ Arduino C 教程 Windows 系统
 
 **注意:请先在此下载Arduino课程的代码和库文件，后面不再提供下载途径。**
 
-`点击下载Arduino代码库文件 <./Arduino.7z>`__
+:download:`点击下载Arduino代码库文件 <./Arduino.7z>`
 
 开发环境设置
 ------------
