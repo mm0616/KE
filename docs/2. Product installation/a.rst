@@ -116,7 +116,7 @@
 To adjust the code of the servo,please select it according to the
 course.
 
-1.\ **Arduino:**\ Download the code file: download:`Arduino <./Arduino.7z>`
+1.\ **Arduino:**\ Download the code file: :download:`Arduino <./Arduino.7z>`
 
 |image1|
 
