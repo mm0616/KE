@@ -59,9 +59,7 @@ steps to install the driver.
 2 Manual driver installation
 ----------------------------
 
-1、Driver download
-
-Mac System: :download:`Mac System driver <./Mac.7z>`
+1、Driver download Mac System: :download:`Mac System driver <./Mac.7z>`
 
 2、double-click to decompress the downloaded driver zip package
 

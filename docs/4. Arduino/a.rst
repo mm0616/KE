@@ -16,7 +16,7 @@ When we get control board, we need to download Arduino IDE and driver
 firstly.
 
 You could download Arduino IDE from the official
-website:https://www.arduino.cc/en/software.
+website: https://www.arduino.cc/en/software.
 
 There are various versions for Arduino,just download a suitable version
 for your system,we will take WINDOWS system as an example to show you
