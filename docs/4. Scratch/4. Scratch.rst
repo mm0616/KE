@@ -7,7 +7,7 @@
 Scratch information contains project ,please click to download for
 follow-up study.
 
-Data download：\ `Data download <./Scratch.7z>`__
+Data download: :download:`Data download <./Scratch.7z>`
 
 4.2 Software installation of Windows System
 -------------------------------------------
@@ -57,3 +57,42 @@ interface directly and upload the code.
 .. |image4| image:: media/4.gif
 .. |image5| image:: media/5.gif
 .. |image6| image:: media/6.gif
+
+
+4.5 Project
+-----------------
+
+.. toctree::
+    :maxdepth: 1
+
+    Project/Project1
+    Project/Project2
+    Project/Project3
+    Project/Project4
+    Project/Project5
+    Project/Project6
+    Project/Project7
+    Project/Project8
+    Project/Project9
+    Project/Project10
+    Project/Project11
+    Project/Project12
+    Project/Project13
+    Project/Project14
+    Project/Project15
+    Project/Project16
+    Project/Project17
+    Project/Project18
+    Project/Project19
+    Project/Project20
+    Project/Project21
+    Project/Project22
+    Project/Project23
+    Project/Project24
+    Project/Project25
+    Project/Project26
+    Project/Project27
+    Project/Project28
+    Project/Project29
+    Project/Project30
+    
