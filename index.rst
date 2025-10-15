@@ -1,15 +1,21 @@
 
 .. toctree::
-   :maxdepth: 3
-   :caption: KE3004 Keyes brick 智能家居套装 ARDUINO米思奇创客教育编程套装
+   :maxdepth: 2
+   :caption: Contents:
 
-   README.md
-   docs/1. 产品介绍/1. 产品介绍
-   docs/2. 产品安装/2. 产品安装
-   docs/3. 驱动安装/3. 驱动安装(选读)
-   docs/4. Arduino教程/4. Arduino.rst
-   docs/5. Scratch教程/5.Scratch.rst
-   docs/6. Mixly教程/6. Mixly.rst
+
+   docs/1. Product introduction/a
+   docs/2. Product installation/a
+   docs/3. Arduino/3. Arduino.rst
+   docs/5. Driver installation/a
+
+
+
+
+
+
+
+
 
 
 
