@@ -1,335 +1,259 @@
-1.Getting started with 4WD robot
-================================
+1. Product Introduction
+=======================
 
-.. figure:: media/A1.png
-   :alt: image-20230425133641976
+|image1|
 
-   image-20230425133641976
+1.1 Description
+---------------
 
-1.1 Introduction
-----------------
+This learning kit is a programmable tool specialized for kids above 6,
+which boasts 15 modules and sensors such as LEDs, buttons, a LCD, a
+photosensor, a sound sensor, an IR receiver, a temperature and humidity
+sensor as well as 30+ interesting projects.
 
-The newly upgraded 4WD Multi-purpose car is one of the most popular
-Arduino sets. It not only has a beautiful appearance but also powerful
-functions. In addition to the usual functions of line tracking, obstacle
-avoidance and remote control, it also uses facial expressions to make
-lovely expressions.  Furthermore, you empower to expand your own
-projects, or add other sensors to complete your exploration. 
+Arduino C language is provided, which empower to cultivate programming
+thinking.
 
-Most of the components are connected via screws and copper pillars,
-thereby you can build your own robot through a few simple assembly
-steps.
-
-What’s more, the basic knowledge such as line tracking, obstacle
-avoidance sensors, ultrasonic ranging, Bluetooth communication, motor
-drivers as well as IR remote controls are accessible for us to learn.   
-
-This product boasts 17 learning projects, from simple to complex, which will guide you to
-make an Arduino robot. 
-
-1.2 Kit list
+1.2 Features
 ------------
 
-+-----------------+-----------------+-----------------+-----------------+
-| #               | Name            | QTY             | Picture         |
-+=================+=================+=================+=================+
-| 1               | Keyestudio V4.0 | 1               | |image1|        |
-|                 | Board(UNO       |                 |                 |
-|                 | compatible)     |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 2               | Keyestudio      | 1               | |image2|        |
-|                 | Motor Driver    |                 |                 |
-|                 | Expansion Board |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 3               | Bluetooth       | 1               | |image3|        |
-|                 | Module          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 4               | Red LED Module  | 1               | |image4|        |
-+-----------------+-----------------+-----------------+-----------------+
-| 5               | Ultrasonic      | 1               | |image5|        |
-|                 | Sensor          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 6               | Keyestudio Line | 1               | |image6|        |
-|                 | Tracking Sensor |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 7               | Keyestudio 8*16 | 1               | |image7|        |
-|                 | LED Board (4Pin |                 |                 |
-|                 | Connection      |                 |                 |
-|                 | Wire)           |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 8               | Servo           | 1               | |image8|        |
-+-----------------+-----------------+-----------------+-----------------+
-| 9               | IR Remote       | 1               | |image9|        |
-|                 | Control         |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 10              | USB Cable       | 1               | |image10|       |
-+-----------------+-----------------+-----------------+-----------------+
-| 11              | 18650 Battery   | 1               | |image11|       |
-|                 | Holder          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 12              | 6 AA Battery    | 1               | |image12|       |
-|                 | Holder          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 13              | Cradle Head     | 1               | |image13|       |
-+-----------------+-----------------+-----------------+-----------------+
-| 14              | 150MM           | 1               | |image14|       |
-|                 | JST-PH2.0MM-5P  |                 |                 |
-|                 | 24AWG Wire      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 15              | 150MM           | 1               | |image15|       |
-|                 | PH2.0mm-4P to   |                 |                 |
-|                 | 2.54 Dupont     |                 |                 |
-|                 | Wire            |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 16              | Acrylic Board   | 1               | |image16|       |
-+-----------------+-----------------+-----------------+-----------------+
-| 17              | Keyestudio Top  | 1               | |image17|       |
-|                 | Board           |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 18              | Keyestudio Base | 1               | |image18|       |
-|                 | Board           |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 19              | Fixed Parts     | 4               | |image19|       |
-+-----------------+-----------------+-----------------+-----------------+
-| 20              | Wheels          | 4               | |image20|       |
-+-----------------+-----------------+-----------------+-----------------+
-| 21              | M3*10MM         | 10              | |image21|       |
-|                 | Dual-pass       |                 |                 |
-|                 | Copper Pillar   |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 22              | M3*40MM         | 4               | |image22|       |
-|                 | Dual-pass       |                 |                 |
-|                 | Copper Pillar   |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 23              | M3*30MM Round   | 8               | |image23|       |
-|                 | Head Screw      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 24              | M3*6MM Round    | 40              | |image24|       |
-|                 | Head Screw      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 25              | M3              | 16              | |image25|       |
-|                 | Nickle-plated   |                 |                 |
-|                 | Nut             |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 26              | M2*8MM Round    | 6               | |image26|       |
-|                 | Head Screw      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 27              | M3*8MM Round    | 4               | |image27|       |
-|                 | Head Screw      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 28              | M2              | 6               | |image28|       |
-|                 | Nickle-plated   |                 |                 |
-|                 | Nut             |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 29              | M3*10MM Flat    | 3               | |image29|       |
-|                 | Head Screw      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 30              | Motor           | 4               | |image30|       |
-+-----------------+-----------------+-----------------+-----------------+
-| 31              | Screwdriver     | 1               | |image31|       |
-+-----------------+-----------------+-----------------+-----------------+
-| 32              | Black Tie       | 6               | |image32|       |
-+-----------------+-----------------+-----------------+-----------------+
-| 33              | Winding Pipe    | 1               | |image33|       |
-+-----------------+-----------------+-----------------+-----------------+
-| 34              | 20CM 3pin F-F   | 1               | |image34|       |
-|                 | Dupont Cable    |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 35              | Decorative Card | 1               | |image35|       |
-+-----------------+-----------------+-----------------+-----------------+
-| 36              | Blue Jumper Cap | 4               | |image36|       |
-+-----------------+-----------------+-----------------+-----------------+
-| 37              | Red Jumper Cap  | 4               | |image37|       |
-+-----------------+-----------------+-----------------+-----------------+
-| 38              | Tracking Runway | 1               | |image38|       |
-+-----------------+-----------------+-----------------+-----------------+
+1. Easy wiring: The wiring of VCC and GND are hidden
 
-1.3 Features
+2. Multiple functions: Nano or ESP32 development board are available as
+   the control board and 15 sensors are integrated. When the external
+   power supply is connected, the DIP switch can be used to control the
+   VCC voltage to 3.3V or 5V.
+
+3. Simple structure: Use 6mm dual-pass copper pillars to connect the
+   acrylic board.
+
+4. High expansibility: VCC and GNG pins are provided
+
+5. Programming learning: Arduino C language is available.
+
+1.3 Parameters
+--------------
+
+- **Working voltage:** 5V or 3.3V
+
+- **DC power:** 7-12V
+
+- **USB power:** 5V
+
+- **Working current:** ≥35mA
+
+- **Working temperature:** –10°C ~ +65°C
+
+1.4 Kit List
 ------------
 
-- Multi-purpose function: Obstacle avoidance, following, IR remote
-  control, Bluetooth control, confined with a circle, gravity control as
-  well as facial emoticons display.
++-----+---------------------------------+-----+-----------------------------+
+| No. | Components                      | QTY | Picture                     |
++=====+=================================+=====+=============================+
+| 1   | Keyestudio Circuit Integrated   | 1   | |image2|                    |
+|     | board                           |     |                             |
++-----+---------------------------------+-----+-----------------------------+
+| 2   | Keyestudio ESP32 Board          | 1   | |image3|                    |
++-----+---------------------------------+-----+-----------------------------+
+| 3   | 3XAA Battery Holder(batteries   | 1   | |image4|                    |
+|     | not included)                   |     |                             |
++-----+---------------------------------+-----+-----------------------------+
+| 4   | Servo                           | 1   | |image5|                    |
++-----+---------------------------------+-----+-----------------------------+
+| 5   | Slotted Screwdriver             | 1   | |image6|                    |
++-----+---------------------------------+-----+-----------------------------+
+| 6   | Phillips Screwdriver            | 1   | |image7|                    |
++-----+---------------------------------+-----+-----------------------------+
+| 7   | IR Remote Control               | 1   | |image8|                    |
++-----+---------------------------------+-----+-----------------------------+
+| 8   | USB Cable                       | 1   | |image9|                    |
++-----+---------------------------------+-----+-----------------------------+
+| 9   | M2.5*6MM Round Head Screw       | 22  | |image10|                   |
++-----+---------------------------------+-----+-----------------------------+
+| 10  | M2.5*9MM Dual-pass Copper       | 10  | |image11|                   |
+|     | Pillar                          |     |                             |
++-----+---------------------------------+-----+-----------------------------+
+| 11  | 20CM F-F DuPont Wires           | 20  | |image12|                   |
++-----+---------------------------------+-----+-----------------------------+
+| 12  | 10CM F-F DuPont Wires           | 20  | |image13|                   |
++-----+---------------------------------+-----+-----------------------------+
+| 13  | Acrylic Board                   | 1   | |image14|                   |
++-----+---------------------------------+-----+-----------------------------+
+| 14  | Rubber Pad                      | 4   | |image15|                   |
++-----+---------------------------------+-----+-----------------------------+
+| 15  | Potentiometer Cap               | 1   | |image16|                   |
++-----+---------------------------------+-----+-----------------------------+
+| 16  | Red Button Cap                  | 1   | |image17|                   |
++-----+---------------------------------+-----+-----------------------------+
+| 17  | Green Button Cap                | 1   | |image18|                   |
++-----+---------------------------------+-----+-----------------------------+
+| 18  | Yellow Button Cap               | 1   | |image19|                   |
++-----+---------------------------------+-----+-----------------------------+
+| 19  | Blue Button Cap                 | 1   | |image20|                   |
++-----+---------------------------------+-----+-----------------------------+
 
-- Simple assembly: No soldering circuit required, simple assembly.
+1.5 ESP32 Control Board
+-----------------------
 
-- Sturdy construction : 4WD construction, 4 premium motors and wheels.
+|image21|
 
-- High extension: It can expand other sensors and modules via a motor
-  driver expansion board.
+**Introduction**
 
-- Multiple controls: IR remote control, App control(iOS and Android
-  system)
+Keyestudio ESP32 Core board is a Mini development board based on the
+ESP-WROOM-32 module. The board has brought out most I/O ports to pin
+headers of 2.54mm pitch. These provide an easy way of connecting
+peripherals according to your own needs.
 
-- Basic programming：C language code of Arduino IDE.
+When it comes to developing and debugging with the development board,
+the both side standard pin headers can make your operation more simple
+and handy.
 
-1.4 Specification
------------------
+The ESP-WROOM-32 module is the industry’s leading integrated WiFi +
+Bluetooth solution with less than 10 external components. It integrates
+antenna switches, RF balun, power amplifiers, low noise amplifiers,
+filters as well as power management modules. At the same time, it also
+integrates TSMC’s low-power 40nm technology, power performance and RF
+performance, making it safe, reliable and easy to expand to a variety of
+applications.
 
-- Working voltage: 5V
+**Specifications**
 
-- Input voltage: 6-9V
+- Microcontroller: ESP-WROOM-32 Module
 
-- Maximum output current: 2A
+- USB-serial port chip: CP2102-GMR
 
-- Maximum power dissipation: 25W (T=75℃)
+- Working voltage: DC 5V
 
-- Motor speed: 5V 200 rpm
+- Working current：80mA
 
-- Motor drive mode: DRV8833 motor driver
+- Current supply：500mA
 
-- Ultrasonic induction angle: <15 degrees
+- Working temperature range : -40°C ~ +85°C
 
-- Ultrasonic detection distance: 2cm-400cm
+- WiFi mode：Station/SoftAP/SoftAP+Station/P2P
 
-- Infrared remote control distance: 10M (measured)
+- WiFi protocol ：802.11 b/g/n/e/i（802.11n，speed up to 150 Mbps）
 
-- Bluetooth remote control distance: 50M(measured)
+- WiFi frequency range：2.4 GHz ~ 2.5 GHz
 
-- Bluetooth control: support Android and iOS system
+- Bluetooth protocol ：conform to Bluetooth v4.2 BR/EDR and BLE Standard
 
-1.5 Development Board
----------------------
+- Dimensions：55\ *26*\ 13mm
 
-You need to know that keyestudio V4.0 development board is the core of
-this 4WD BT Multi-purpose Car V2.0.
+- Weight：9.3g
 
-|image39|
+**Pin out**
 
-Keyestudio V4.0 development board is an Arduino Uno -compatible board,
-which is based on ATmega328P MCU, and with a CP2102 chip as a
-UART-to-USB converter.
+|image22|
 
-|image40|
+ESP32 has fewer pins than commonly used processors, but it doesn’t have
+any problems reusing multiple functions on pins.
 
-It has 14 digital input/output pins (of which 6 can be used as PWM
-outputs), 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a
-power jack, 2 ICSP headers and a reset button.
+**Warning**: The pin voltage level of the ESP32 is 3.3V. If you want to
+connect the ESP32 to another device with an operating voltage of 5V, you
+should use a level converter to convert the voltage level.
 
-|image41|
+- **Power Pins:** The module has two power pins +5V and 3.3V. You can
+  use these two pins to power other devices and modules.
 
-It contains everything needed to support the microcontroller: simply
-connect it to a computer with a USB cable or power it via an external DC
-power jack (DC 7-12V) or via female headers Vin/GND (DC 7-12V) to get
-started.
+|image23|
 
-+----------------------+-----------------------------------------------+
-| Microcontroller      | ATmega328P-PU                                 |
-+======================+===============================================+
-| Operating Voltage    | 5V                                            |
-+----------------------+-----------------------------------------------+
-| Input Voltage        | DC 7-12V                                      |
-| (recommended)        |                                               |
-+----------------------+-----------------------------------------------+
-| Digital I/O Pins     | 14 (D0-D13) (of which 6 provide PWM output)   |
-+----------------------+-----------------------------------------------+
-| PWM Digital I/O Pins | 6 (D3, D5, D6, D9, D10, D11)                  |
-+----------------------+-----------------------------------------------+
-| Analog Input Pins    | 6 (A0-A5)                                     |
-+----------------------+-----------------------------------------------+
-| DC Current per I/O   | 20 mA                                         |
-| Pin                  |                                               |
-+----------------------+-----------------------------------------------+
-| DC Current for 3.3V  | 50 mA                                         |
-| Pin                  |                                               |
-+----------------------+-----------------------------------------------+
-| Flash Memory         | 32 KB (ATmega328P-PU) of which 0.5 KB used by |
-|                      | bootloader                                    |
-+----------------------+-----------------------------------------------+
-| SRAM                 | 2 KB (ATmega328P-PU)                          |
-+----------------------+-----------------------------------------------+
-| EEPROM               | 1 KB (ATmega328P-PU)                          |
-+----------------------+-----------------------------------------------+
-| Clock Speed          | 16 MHz                                        |
-+----------------------+-----------------------------------------------+
-| Onboard LED          | D13                                           |
-+----------------------+-----------------------------------------------+
+- **GND Pins**\ ：The module has three grounded pins.
 
-1.6 Motor shield
-----------------
+- | **Enable pin (EN) :** This pin is used to enable and disable
+    modules. The pin enables module at high level and disables module at
+    low level.
 
-**Description**\ ：
+- | **Input/Output pins (GPIO) :** You can use 32 GPIO pins to
+    communicate with LEDs, switches and other input/output devices. You
+    can also pull these pins up or down internally.
 
-The 8833 board adopts the 8833 motor driver chip driven by two-channel H
-bridges , and the maximum driving current of a single channel is up to
-1.5A, and the terminal of PH2.0 is used.
+- **Note:** Though GPIO6 to GPIO11 pins (SCK/CLK, SDO/SD0, SDI/SD1,
+  SHD/SD2, SWP/SD3 and SCS/CMD pins) are used for SPI communication for
+  the internal module, which are not recommended.
 
-The IR receiver module is also integrated on the board. Furthermore,
-there are many PH2.0 expansion interfaces on the board such as
-ultrasonic interface, analog interface, three-channel tracking interface
-as well as pin interfaces with Bluetooth and motor driver.
+- **ADC:** You can use the 16 ADC pins on this module to convert analog
+  voltages (the output of some sensors) into digital voltages. Some of
+  these converters are connected to internal amplifiers and which are
+  capable of measuring small voltages with high accuracy.
 
-**Specification**\ ：
+- **DAC:** ESP32 module has two A/D converters with 8-bit precision.
 
-+-------------------------+--------------------------------------------+
-| Voltage                 | USB 5V，DC 6-9V                            |
-+=========================+============================================+
-| Current                 | The maximum output is 3A, the actual       |
-|                         | output is about 1A (it’s 2A when the motor |
-|                         | is loaded)                                 |
-+-------------------------+--------------------------------------------+
-| Maximum power           | 27W（The actual value is about 9W）        |
-+-------------------------+--------------------------------------------+
-| Working temperature     | -10~50 Degree                              |
-+-------------------------+--------------------------------------------+
-| Dimension               | 69x56x18mm                                 |
-+-------------------------+--------------------------------------------+
-| Weight                  | 25.5g                                      |
-+-------------------------+--------------------------------------------+
-| Environmental           | ROHS                                       |
-| protection attributes   |                                            |
-+-------------------------+--------------------------------------------+
+- | **Touch pad:** There are 10 pins on the ESP32 module that are
+    sensitive to capacitance changes. You can attach these pins to
+    certain PCB’s pads and use them as touch switches.
 
-**Function**\ ：
+- | **SPI:** There are two SPI interfaces on the module, which can be
+    used to connect the display screen, SD/microSD memory card module as
+    well as external flash memory.
 
-|image42|
+- | **I2C:** SDA and SCL pins are used for I2C communication.
 
-**Schematic Diagram**\ ：
+- **Serial Communication (UART) :** There are two UART serial interfaces
+  on this module, which can be used to transfer up to 5Mbps of
+  information between two devices . The UART0 also has CTS and RTS
+  control functions.
 
-.. figure:: media/A44.png
-   :alt: image-20250513140932577
+- **PWM:** Almost all ESP32 input/output pins can be used for PWM
+  (pulse-width modulation). Using these pins can control motors, LED
+  lights and colors.
 
-   image-20250513140932577
+1.6 Components
+--------------
 
-.. |image1| image:: media/A2.png
-.. |image2| image:: media/A3.png
-.. |image3| image:: media/A4.jpeg
-.. |image4| image:: media/A5.png
-.. |image5| image:: media/A6.png
-.. |image6| image:: media/A7.png
-.. |image7| image:: media/A8.jpeg
-.. |image8| image:: media/A9.jpeg
-.. |image9| image:: media/A10.png
-.. |image10| image:: media/A11.png
-.. |image11| image:: media/A12.png
-.. |image12| image:: media/A13.png
-.. |image13| image:: media/A14.png
-.. |image14| image:: media/A15.png
-.. |image15| image:: media/A16.png
-.. |image16| image:: media/A17.png
-.. |image17| image:: media/A18.png
-.. |image18| image:: media/A19.png
-.. |image19| image:: media/A20.png
-.. |image20| image:: media/A21.png
-.. |image21| image:: media/A22.png
-.. |image22| image:: media/A23.png
-.. |image23| image:: media/A24.png
-.. |image24| image:: media/A25.png
-.. |image25| image:: media/A26.png
-.. |image26| image:: media/A27.png
-.. |image27| image:: media/A28.png
-.. |image28| image:: media/A29.png
-.. |image29| image:: media/A30.png
-.. |image30| image:: media/A31.png
-.. |image31| image:: media/A32.png
-.. |image32| image:: media/A33.png
-.. |image33| image:: media/A34.png
-.. |image34| image:: media/A35.png
-.. |image35| image:: media/A36.png
-.. |image36| image:: media/A37.png
-.. |image37| image:: media/A38.png
-.. |image38| image:: media/A39.png
-.. |image39| image:: media/A40.png
-.. |image40| image:: media/A41.jpeg
-.. |image41| image:: media/A42.jpeg
-.. |image42| image:: media/A43.gif
+|image24|
+
+1.7 ESP32 Integrated Board
+--------------------------
+
+|image25|
+
+This expansion board is compatible with the Keyestudio Nano Plus
+development board and Keyestudio ESP32 development board. The voltage on
+VCC can be set to 3.3V (ESP32) or 5V(Nano) via a DIP switch.
+
+It integrates four buttons, four LEDs(red, yellow, green and blue), six
+WS2812 RGB LEDs, a buzzer, a PIR motion sensor, an IR receiver, a sound
+sensor, a photoresistor, a 8002 amplifier, a potentiometer, an
+ultrasonic sensor, a 4-bit digital tube display, a 8x8 dot matrix
+display and a LCD 1602 display.
+
+What’s more, each pin possesses its own VCC and GND, which brings a
+higher compatibility to the board and provides more opportunities for
+extended learning of other modules.
+
+**Modules Introduction**
+
+|image26|
+
+**Pin out**
+
+|image27|
+
+.. |image1| image:: media/image-20251011150621510.png
+.. |image2| image:: media/image-20251011151422905.png
+.. |image3| image:: media/image-20251011151442825.png
+.. |image4| image:: media/image-20251011152407258.png
+.. |image5| image:: media/image-20251011152439613.png
+.. |image6| image:: media/image-20251011152503780.png
+.. |image7| image:: media/image-20251011152525765.png
+.. |image8| image:: media/image-20251011152544938.png
+.. |image9| image:: media/image-20251011152614841.png
+.. |image10| image:: media/image-20251011152634081.png
+.. |image11| image:: media/image-20251011152655153.png
+.. |image12| image:: media/image-20251011152715532.png
+.. |image13| image:: media/image-20251011152732716.png
+.. |image14| image:: media/image-20251011152754651.png
+.. |image15| image:: media/image-20251011152940819.png
+.. |image16| image:: media/image-20251011153006225.png
+.. |image17| image:: media/image-20251011153029103.png
+.. |image18| image:: media/image-20251011153054600.png
+.. |image19| image:: media/image-20251011153120692.png
+.. |image20| image:: media/image-20251011153152358.png
+.. |image21| image:: media/image-20251011153405646.png
+.. |image22| image:: media/image-20251011153709523.png
+.. |image23| image:: media/image-20251011153916872.png
+.. |image24| image:: media/image-20251011154323188.png
+.. |image25| image:: media/image-20251011154508929.png
+.. |image26| image:: media/image-20251011154559848.png
+.. |image27| image:: media/image-20251011154643219.png
