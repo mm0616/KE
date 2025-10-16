@@ -102,6 +102,3 @@ Connect the wirings and upload the code.
 - Play La when the distance is within 50~60. 
 - Play Si when the distance is within 60~70. 
 
-#### **6. Code Explanation**
-
-**||** : logical and operational signs. if (distance < 2 || distance >= 400): If one of the expressions satisfies the condition, it is true, otherwise it is false.

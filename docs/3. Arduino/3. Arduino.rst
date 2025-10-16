@@ -4,8 +4,9 @@
 3.1 Data download
 -----------------
 
-Arduino information contains library files and project code ,please
-click to download for follow-up study.
+Please note: The library files and code used by Arduino are available
+for download only at this location. No further download options will be
+provided thereafter.
 
 Data download: :download:`Arduino Data <./Arduino.7z>`
 
@@ -32,7 +33,7 @@ And when the ZIP file is downloaded,you can directly unzip and start it.
 |image2|
 
 3.3 Installation and configuration of ESP32 environment
--------------------------
+-------------------------------------------------------
 
 1. Click “File” and select “Preferences”.
 
@@ -54,9 +55,12 @@ And when the ZIP file is downloaded,you can directly unzip and start it.
 |image7|
 
 5. In the development board search box, search for “ESP32”, select
-   version “3.2.1”, and click install.
+   version “2.0.6”, and click install.
 
-|image8|
+.. figure:: ./media/A8.png
+   :alt: image-20251016110024961
+
+   image-20251016110024961
 
 **Note: You can see the installation progress of the development board
 in the lower right corner. Please wait a few minutes for the
@@ -64,16 +68,12 @@ installation to complete. During the installation, keep your network
 stable. If the installation fails, repeat the above steps and reinstall
 the development board.**
 
-|image9|
+.. figure:: ./media/A9.png
+   :alt: image-20251016111519300
 
-3.4 Set Arduino IDE
--------------------
+   image-20251016111519300
 
-1、Connecting the board to the computer.
-
-|image10|
-
-3.5 Add Library
+3.4 Add Library
 ---------------
 
 Libraries are a collection of code that makes it easy for you to connect
@@ -84,26 +84,91 @@ download.
 
 We will introduce the most simple way for you to add libraries .
 
-|image11|
+Locate the “Libraries” folder within the materials downloaded at the
+outset, and note its path on your computer; this is of paramount
+importance.
 
-.. |image1| image:: ./media/Animati.gif
-.. |image2| image:: ./media/Animat.gif
-.. |image3| image:: media/image-20251011164127663.png
-.. |image4| image:: media/image-20251011162812091.png
-.. |image5| image:: media/image-20251011165323871.png
-.. |image6| image:: media/image-20251011165426044.png
-.. |image7| image:: media/image-20251011165758687.png
-.. |image8| image:: media/image-20251011170154263.png
-.. |image9| image:: media/image-20251011162903940.png
-.. |image10| image:: ./media/Anima.gif
-.. |image11| image:: ./media/14.gif
+.. figure:: ./media/A10.png
+   :alt: image-20251016112427248
+
+   image-20251016112427248
+
+This method can only import one library file at a time, so we need to
+repeat the process to import all library files. (Here we demonstrate
+importing only the AsyncTCP.zip library file; it is advisable to import
+all libraries at this stage to avoid forgetting in subsequent lessons.)
+
+.. figure:: ./media/A11.gif
+   :alt: Honeycam 2025-10-16 11-33-14
+
+   Honeycam 2025-10-16 11-33-14
+
+3.5 Driver Check
+----------------
+
+Here we need to verify whether the drivers are installed on the
+computer. 1. Without connecting the ESP32 development board to the
+computer, open the port as shown below. Note the available port options;
+as illustrated, only COM1 is present.
+
+.. figure:: ./media/A12.png
+   :alt: image-20251016114222054
+
+   image-20251016114222054
+
+2. Close the previously opened path and return to the programming
+   interface. Connect the ESP32 development board to the computer, then
+   reopen the port to check for new port options. As shown below, COM6
+   now appears.
+
+.. figure:: ./media/A13.png
+   :alt: image-20251016114907495
+
+   image-20251016114907495
+
+3. At this point, COM6 is the port for the ESP32 development board,
+   confirming that the drivers have been automatically installed.
+4. If no new ports appear after connecting to the motherboard, please
+   replace the data cable and try a different USB port on the computer.
+   Should the issue persist, refer to the ‘**Driver installation**’
+   section to install the driver.
+
+.. figure:: ./media/A14.png
+   :alt: image-20251016115206765
+
+   image-20251016115206765
+
+3.6 Software Configuration Check
+--------------------------------
+
+At this point, we have completed all software configurations. Now
+connect the ESP32 development board to the computer and verify that the
+environment is functioning correctly.
+
+.. figure:: ./media/A15.gif
+   :alt: Honeycam 2025-10-16 11-59-04
+
+   Honeycam 2025-10-16 11-59-04
+
+Note: We can simply upload the default code directly. Successful upload
+confirms our environment configuration is working correctly, as
+demonstrated in the animated gif.
+
+.. |image1| image:: ./media/A1.gif
+.. |image2| image:: ./media/A2.gif
+.. |image3| image:: media/A3.png
+.. |image4| image:: media/A4.png
+.. |image5| image:: media/A5.png
+.. |image6| image:: media/A6.png
+.. |image7| image:: media/A7.png
 
 
-3.6 Project
----------------
+3.7 Project
+------------
 
 .. toctree::
     :maxdepth: 1
+
 
     Project/Project1
     Project/Project2
@@ -140,5 +205,4 @@ We will introduce the most simple way for you to add libraries .
     Project/Project33
     Project/Project34
     
-
-
+    

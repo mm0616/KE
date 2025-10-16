@@ -146,10 +146,3 @@ void loop()
 
 If the blue LED is on, it means the temperature detected by the DHT11 sensor is in the range of 0-25°.
 
-#### **7. Code Explanation**
-
-**xht11 xht(Pin);**   Set the instance named xht and add the pins .
-
-**unsigned char dat[4] = { 0, 0, 0, 0 };**  dat[0] is the integer part of the humidity value. dat[1] is the decimal part of the humidity value. dat[2] is the integer part of the temperature value, and dat[3] is the decimal part of the temperature value.
-
-**&&**  (value < 100 && value > 75) means that, it is true only both expressions satisfying the condition, or else it is false. 

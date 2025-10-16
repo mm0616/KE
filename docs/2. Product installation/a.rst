@@ -43,11 +43,11 @@ WiFi. Please provide an external power supply for this kit.
 
 |image8|
 
-.. |image1| image:: media/image-20251011155543136.png
-.. |image2| image:: media/image-20251011155856830.png
-.. |image3| image:: media/image-20251011155909104.png
-.. |image4| image:: media/image-20251011155957237.png
-.. |image5| image:: media/image-20251011160005388.png
-.. |image6| image:: media/image-20251011160031973.png
-.. |image7| image:: media/wps2.jpg
-.. |image8| image:: media/image-20251011160126683.png
+.. |image1| image:: media/A1.png
+.. |image2| image:: media/A2.png
+.. |image3| image:: media/A3.png
+.. |image4| image:: media/A4.png
+.. |image5| image:: media/A5.png
+.. |image6| image:: media/A6.png
+.. |image7| image:: media/A7.jpg
+.. |image8| image:: media/A8.png

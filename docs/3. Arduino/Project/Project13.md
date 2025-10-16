@@ -95,19 +95,3 @@ void loop()
 
 You can control the red LED light on and off by the red button.
 
-**7. Code Explanation**
-
-**pinMode(button, INPUT);**  Set pin IO15 on the development board to input, so that the state of button can be identified. 
-When we press the button, IO15 is at a low level(0). If we release it, IO15 will be at high(1).
-
-**value = digitalRead(button);**  digitalRead(button) reads the high and low level (1 or 0) of the digital IO15 pin and assigns the button value to value.
-
-**Serial.begin(9600);** Set the serial baud rate. It is necessary to print value on serial port.
-
-**Serial.print("Key status:");**  Serial port prints value. Contents in print() will be printed. If it is character string, quotation marks are needed, for instance, "Key status:".
-
-**Serial.println(button);**  Serial port prints contents in println() in a new line. Here we print the button value.
-
- **if (digitalRead(button) == LOW) { ... }**:  Determine if the button pin is equal to the low level. If so, execute the if statement {... }, otherwise not executed.
-
-**!** takes the inverse operator, so if this value is 1, it's 0, and if it's 0, it's 1, so we can turn a light on and off by pressing a button.

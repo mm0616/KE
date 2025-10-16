@@ -87,9 +87,3 @@ void loop()
 
 After the code is uploaded successfully, rotating the potentiometer will change the brightness of the red LED.
 
-**8. Code** **Explanation**
-
-**analogRead(pot);**  Read the analog value. Put the input pin of analog value in brackets. 
-
-**map(value, fromLow, fromHigh, toLow, toHigh)**  map(value,0,4095,0,255);
-Convert the range of value from 0-4095 to 0-255. Because the range of value does not conform to that of PWM, a conversion is necessary. 

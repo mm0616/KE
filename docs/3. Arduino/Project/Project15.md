@@ -89,12 +89,3 @@ Let's simulate a quick-answer game.
 
 Press the red button to turn off all LED lights. Then we can select the yellow, green and blue buttons to turn on the corresponding LED lights. The person whose LED light turns on first can answer first.
 
-#### **6. Code Explanation**
-
-**while(1) { ... }**   Unlimited loop function. 
-When the expression or value in while() is True, the execution circulates in while{}. On the contrary, the loop quits when it is False. 
-In this example, "1" in while(1) represents True, so code is on a loop when entering "while", which is endless. 
-
-For how to exit, we need a "break" statement.
-
-**break;** It is used to exit a loop. 

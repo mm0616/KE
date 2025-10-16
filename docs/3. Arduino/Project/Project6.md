@@ -48,14 +48,3 @@ void loop()
 
 After uploading code and powering on, the LEDs go from left to right and then from right to left
 
-**6. Code Explanation**
-
-**for(int i = 12;i <= 15 ;i++){    pinMode(i,OUTPUT);    }**  : We can use "for" statement to define continuous pins. Yet it features a disadvantage of non-replacement ability of pins, which deteriorates the code portability. 
-
-**for(int i = 12; i <= 15; i++){**
-    		**digitalWrite(i,HIGH);**
-    		**delay(200);**
-    		**digitalWrite(i,LOW);**
-  **}**     
-
-In the first loop, LED on IO12 pin will light up and off after a 200ms delay. At the second time, LED on IO13 pin will turn on and off also after a 200ms delay. Until the IO15 pin is extinguished and the for loop is popped out, and the second for loop is the same except from IO15 pin to IO12 pin.

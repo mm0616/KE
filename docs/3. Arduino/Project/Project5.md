@@ -209,18 +209,3 @@ uint32_t Wheel(byte WheelPos)
 
 After uploading the code and powering on, the LED will light up in different colors and make a light show.
 
-**8. Code Explanation**
-
-**#include <NeoPixel_ESP32.h>** : Libraries are included, so that codes in library can be directly recalled. 
-
-**Adafruit_NeoPixel strip = Adafruit_NeoPixel(6, PIN);**   Define an instance strip and set the number of RGB. Here we input 6.
-
-PIN = 15
-
-**strip.begin();** Initialize 2812RGB 
-
-**strip.setPixelColor(uint16_t n, uint8_t color);** The uint16_t m is used to set the number of 2812RGB and the second parameter is the value of the displayed color.
-
-**strip.Color(uint8_t red , uint8_t green , uint8_t blue);**Set the color function. The value range of the three parameters( red, green and blue) is (0-255). We can synthesize various colors by setting the values of the three colors.
-
-**strip.show();** Display 2812RGB

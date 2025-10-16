@@ -159,14 +159,3 @@ void loop()
 }
 ```
 
-**7. Code Explanation**
-
-**float checkdistance()** :Self-defining function. It greatly reduces loop() by collecting some specific codes which can be directly recalled. 
-
-**delayMicroseconds();**  Delay function. delay()is in ms while delayMicroseconds() is in um for some precise delays. 
-
-**pulseIn(pin, value)** :Pulse-grabbing function. 
-
-**pin:** the number of the Arduino pin on which you want to read the pulse. Allowed data types: int.
-
-**value:** type of pulse to read: either HIGH or LOW. Allowed data types: int. 

@@ -115,11 +115,3 @@ void loop()
 
 After uploading code, the digital tube displays 1~9999 by "for" loop
 
-**8. Code Explanation**
-
-**TM1650 DigitalTube(CLK,DIO);**  Create an example for DigitalTube，and import the pin number connecting CLK to DIO into the code.
-
-**DigitalTube.clear();** Clear the display 
-
-**DigitalTube.displayFloatNum(num);** This is the digital tube display function, the maximum number is 9999.
-

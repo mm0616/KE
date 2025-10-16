@@ -72,9 +72,3 @@ void servopulse(int pin, int myangle)
 
 After connecting the wiring and uploading code, the servo starts to rotate from 0° to 180° and then reverse. 
 
-**6. Code Explanation**
-
-**void servopulse(int pin, int myangle)** : To integrate the code together for easy use and management, the first parameter is the pin number, the second parameter is the Angle of the servo.
-
-**map(myangle, 0, 180, 500, 2500);**  This is a mapping variable range function used to map the range of myangle variable from 0-180 to 500-2500, so that we can get a value of 2500 when the servo is set to 180°, 500-2500 is the time that the servo high level is maintained.
-

@@ -61,8 +61,3 @@ The greater the sound value detected by the sound sensor, the more dots light up
 
 ![](media/image-20251013121312225.png)![](media/image-20251013121319559.png)
 
-**5. Code Explanation**
-
-**data_val[ ] [ ]{ … };**  Two-dimensional array. If we use an axis X metaphor for linear array, two-dimensional array is axis X and Y. 
-
-In this code, the value in the first square brackets is on axis X, and the second is on axis Y. For instance, column 3 and row 4, that is data_val[ 3] [4 ]. 

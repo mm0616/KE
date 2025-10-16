@@ -56,16 +56,3 @@ If the characters are unclear, please fix the backlight potentiometer by the sma
 
 ![](media/image-20251013100213480.png)
 
-#### **6. Code Explanation**
-
-**#include <LiquidCrystal_I2C.h>**	#include is a "include" command of libraries, so we can recall functions in file.h.
-
-**LiquidCrystal_I2C lcd(0x27,16,2);**  Define an LCD. 0x27 is its IIC address, and 16 means the number of columns(display 16 characters in total), and 2 is the number of rows.
-
-**lcd.init();**  Initialize LCD
-
-**lcd.backlight();** Turn on LCD backlight, which clarifies the displayed characters. 
-
-**lcd.setCursor(3,0);**  Set the display position. (3,0) indicates the the beginning of column 3, row 0.
-
-**lcd.print("Hello, world!");**  Define the displayed characters. Enclose the strings in quotation marks, for instance, lcd.print("Hello, world!"). The marks can be omitted if displaying one value, for example, lcd.print(value). 
