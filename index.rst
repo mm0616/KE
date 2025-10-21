@@ -4,7 +4,7 @@
    :caption: Contents:
 
 
-   docs/2. Mixly/a.rst
+   docs/Download Center/a
 
 
 
