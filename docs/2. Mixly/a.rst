@@ -7,7 +7,7 @@
 软件下载（百度网盘）：
 https://pan.baidu.com/s/1tJiKGUYVtE4VZKwZhCoy2w?pwd=jvmg
 
-代码和库文件下载：\ `Mixly <./Mixly.7z>`__
+代码和库文件下载： :download:`Mixly <./Mixly.7z>`
 
 2.2 软件安装
 ------------
@@ -85,9 +85,65 @@ R3开发板和传感器扩展板。然后上传对应的测试代码，单独测
 
 特别注意：实验时，模块/传感器连接线材时，必须按照资料里的接线方法及位置，电源与信息脚不能错接，否则会损坏模块/传感器。
 
+.. toctree::
+    :maxdepth: 1
+
+    Project/Project1
+    Project/Project2
+    Project/Project3
+    Project/Project4
+    Project/Project5
+    Project/Project6
+    Project/Project7
+    Project/Project8
+    Project/Project9
+    Project/Project10
+    Project/Project11
+    Project/Project12
+    Project/Project13
+    Project/Project14
+    Project/Project15
+    Project/Project16
+    Project/Project17
+    Project/Project18
+    Project/Project19
+    Project/Project20
+    Project/Project21
+    Project/Project22
+    Project/Project23
+    Project/Project24
+    Project/Project25
+    Project/Project26
+    Project/Project27
+    Project/Project28
+    Project/Project29
+    Project/Project30
+    Project/Project31
+    Project/Project32
+    Project/Project33
+    Project/Project34
+    Project/Project35
+    Project/Project36
+    Project/Project37
+
+
 **模块组合项目**
 
 前面课程中，单独测试了传感器/模块的功能，功能比较单一。在此，可以将多个传感器/模块搭配使用，组合出各种各样的功能。传感器/模块种类比较多，选择几款比较经典的组合实验。当然也可以根据自己的想法，自己设置代码，组合出你想要的特别的功能。
+
+.. toctree::
+    :maxdepth: 1
+
+    Project/Project38
+    Project/Project39
+    Project/Project40
+    Project/Project41
+    Project/Project42
+    Project/Project43
+    Project/Project44
+    Project/Project45
+
+
 
 .. |image1| image:: ./media/image-20250610134847834.png
 .. |image2| image:: ./media/image-20250610135141637.png
