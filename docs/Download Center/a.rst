@@ -91,10 +91,10 @@ KidsBlock Software
 | Driver | Windows System                                                               | Mac System                                                                        |
 | Name   |                                                                              |                                                                                   |
 +========+==============================================================================+===================================================================================+
-| CH340  | `👉🏼Click to                                                                  | `👉🏼Click to                                                                       |
+| CH340  | `Click to                                                                    | `Click to                                                                         |
 |        | download <https://xiazai.keyesrobot.cn/software/ch340/CH341SER.ZIP>`__       | download <https://xiazai.keyesrobot.cn/software/ch340/CH34XSER_MAC.ZIP>`__        |
 +--------+------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
-| CP2102 | `👉🏼Click to                                                                  | `👉🏼Click to                                                                       |
+| CP2102 | `Click to                                                                    | `Click to                                                                         |
 |        | download <https://xiazai.keyesrobot.cn/software/cp2102/CP2102_Driver.zip>`__ | download <https://xiazai.keyesrobot.cn/software/cp2102/Mac_OSX_VCP_Driver.zip>`__ |
 +--------+------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
 
