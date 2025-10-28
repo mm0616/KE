@@ -7,7 +7,7 @@
 Scratch information contains project ,please click to download for
 follow-up study.
 
-Data download： :download:`Data download <./Scratch.7z>`
+Data download：:download:`Data download <./Scratch.7z>`
 
 4.2 Install software
 --------------------
@@ -50,8 +50,8 @@ Install driver（MAC)
 
 |image6|
 
-4.3 Project(1)
---------------
+4.3 Scratch Project（1-15）
+---------------------------
 
 Project 1 LED Blinking
 ~~~~~~~~~~~~~~~~~~~~~~

@@ -21,7 +21,7 @@
 
 1. Driver download
 
-- Windowns System:  :download:`Windowns System driver <./Windows.7z>`
+- Windowns System: :download:`Windowns System driver <./Windows.7z>`
 
 2. Connect the motherboard to the computer, open the device manager, if
    there is a yellow exclamation mark in front of the driver in the
@@ -53,7 +53,7 @@ steps to install the driver.
 
 1. Driver download
 
-​Mac System:  :download:`Mac System driver <./Mac.7z>`
+​Mac System: :download:`Mac System driver <./Mac.7z>`
 
 2. double-click to decompress the downloaded driver zip package
 

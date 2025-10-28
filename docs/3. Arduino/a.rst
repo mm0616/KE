@@ -132,8 +132,8 @@ Note: We can simply upload the default code directly. Successful upload
 confirms our environment configuration is working correctly, as
 demonstrated in the animated gif.
 
-3.3 Project(1)
---------------
+3.3 Arduino Project(1-17)
+-------------------------
 
 Project 1 LED Blinking
 ~~~~~~~~~~~~~~~~~~~~~~
