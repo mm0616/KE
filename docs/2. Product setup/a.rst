@@ -127,8 +127,7 @@ course.
 
 |image40|
 
-2.\ **Kidsblock:**\ Download the code
-file:  :download:`Kidsblock <./Kidsblock.7z>`
+2.\ **Kidsblock:**\ Download the code file: :download:`Kidsblock <./Kidsblock.7z>`
 
 |image41|
 

@@ -1,21 +1,33 @@
 Bemerkung
 ---------
 
-**关于教程语言切换，请参照以下动图** **Bezüglich des Sprachwechsels im
-Tutorial beachten Sie bitte das folgende animierte Bild.** **Concernant
-le changement de langue dans le tutoriel, veuillez vous référer à
-l’image animée suivante.** **En relación con el cambio de idioma en el
-tutorial, consulte la siguiente imagen animada.** **Per quanto riguarda
-il cambio di lingua nel tutorial, fare riferimento alla seguente
-immagine animata.** **Jeśli chodzi o przełączanie języka w samouczku,
-zapoznaj się z poniższym obrazkiem animowanym.** **Wat betreft het
-veranderen van de taal in de tutorial, zie de volgende geanimeerde
-afbeelding.** **Angående språkbytet i handledningen, vänligen se
-följande animerade bild.**
+**关于教程语言切换，请参照以下动图**
+
+**Bezüglich des Sprachwechsels im Tutorial beachten Sie bitte das
+folgende animierte Bild.**
+
+**Concernant le changement de langue dans le tutoriel, veuillez vous
+référer à l’image animée suivante.**
+
+**En relación con el cambio de idioma en el tutorial, consulte la
+siguiente imagen animada.**
+
+**Per quanto riguarda il cambio di lingua nel tutorial, fare riferimento
+alla seguente immagine animata.**
+
+**Jeśli chodzi o przełączanie języka w samouczku, zapoznaj się z
+poniższym obrazkiem animowanym.**
+
+**Wat betreft het veranderen van de taal in de tutorial, zie de volgende
+geanimeerde afbeelding.**
+
+**Angående språkbytet i handledningen, vänligen se följande animerade
+bild.**
 
 .. figure:: ./media/1.gif
    :alt: Honeycam 2025-10-30 15-08-29
 
+   Honeycam 2025-10-30 15-08-29
 
 1. Product introduction
 =======================
