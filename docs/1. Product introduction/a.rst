@@ -13,10 +13,9 @@ veranderen van de taal in de tutorial, zie de volgende geanimeerde
 afbeelding.** **Angående språkbytet i handledningen, vänligen se
 följande animerade bild.**
 
-.. figure:: ./media/Honeycam%202025-10-30%2015-08-29.gif
+.. figure:: ./media/1.gif
    :alt: Honeycam 2025-10-30 15-08-29
 
-   Honeycam 2025-10-30 15-08-29
 
 1. Product introduction
 =======================
