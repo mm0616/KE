@@ -1,4 +1,4 @@
-**:mark:`How to use KidsBlock on Windows system`**
+**How to use KidsBlock on Windows system**
 
 1. Interface
 
@@ -9,7 +9,7 @@
    .. figure:: ./media/image3.png
       :alt: 无标题
 
-
+      无标题
 
    3. Click\ |image3|\ to select”\ **Install driver**\ ”.
 
