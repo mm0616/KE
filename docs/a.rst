@@ -1,5 +1,6 @@
 Interface
 
-|image1|
+.. figure:: ./media/image1-1761888959318-1.png
+   :alt: image1
 
-.. |image1| image:: ./media/image1.png
+   image1
