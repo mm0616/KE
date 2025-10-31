@@ -5,8 +5,7 @@
 
 
    docs/a
-   docs/b
-   docs/c
+
 
 
 
