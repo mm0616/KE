@@ -4,8 +4,9 @@
    :caption: Contents:
 
 
-   docs/a.rst
-
+   docs/a
+   docs/b
+   docs/c
 
 
 
