@@ -12,19 +12,9 @@ The ultrasonic sensor detects the smart car and the obstacle distance to control
 
  **3.Test Code**
 
- You can drag blocks to edit. Blocks listed below are for your reference.
 
-![](media/image-20251101102827693.png)
 
-![](media/image-20251101102901365.png)
-
-![](media/image-20251101102936330.png)
-
-Complete Test Code
-
-![](media/image-20251101103003347.png)
-
-![](media/image-20251101103017106.png)
+![2](media/2.png)
 
 **4.Test Result**
 

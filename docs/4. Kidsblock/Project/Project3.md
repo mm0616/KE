@@ -30,13 +30,7 @@ The corresponding servo angle is shown in the figure below:
 
 **4.Test Code**
 
- You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101094542495.png)
-
- Complete Test Code
-
-![](media/image-20251101094603345.png)
+![](media/image-20251101150130078.png)
 
 **4.Test Result**
 

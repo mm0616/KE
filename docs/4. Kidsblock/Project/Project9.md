@@ -12,19 +12,7 @@ Ultrasonic obstacle avoidance smart car is used to control the car motion state,
 
 **3.Test Code**
 
-You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101103916937.png)
-
-![](media/image-20251101103936174.png)
-
-![](media/image-20251101103955358.png)
-
-Complete Test Code
-
-![](media/image-20251101104022559.png)
-
-![](media/image-20251101104055194.png)
+![](media/3.png)
 
 **4.Test Result**
 

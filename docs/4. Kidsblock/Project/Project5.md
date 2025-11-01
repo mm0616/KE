@@ -27,15 +27,7 @@ Furthermore, if black or no object is detected, the signal end of the M CU will 
 
 **3.Test Code**
 
- You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101095856398.png)
-
-![](media/image-20251101095913605.png)
-
- Complete Test Code
-
-![](media/image-20251101095939443.png)
+![](media/image-20251101150943128.png)
 
 **4.Test Result**
 

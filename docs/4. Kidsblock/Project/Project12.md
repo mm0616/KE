@@ -77,15 +77,7 @@ Please download the app here.
 
 **4.Test Code**
 
-You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101112859965.png)
-
-![](media/image-20251101112915498.png)
-
-Complete Test Code
-
-![](media/image-20251101112934855.png)
+![](media/image-20251101153045470.png)
 
 **5.Test Result**
 
@@ -100,6 +92,8 @@ Note: The RXD, TXD, GND and VCC of the Bluetooth module are connected to TX, RX,
 **6.Comprehensive Project APP Control Smart Car**
 
 Complete Test Code
+
+![](media/6.png)
 
 After uploading the code successfully, turn the DIP switch to the ON end and powerup, plug in the bluetooth, then connect it to BT24. We can do the following operations:
 

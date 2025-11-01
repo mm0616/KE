@@ -41,17 +41,7 @@ Circuit diagram of ultrasonic sensor:
 
 **3.Test Code**
 
-You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101101923217.png)
-
-![](media/image-20251101101941101.png)
-
-![](media/image-20251101101958550.png)
-
-**Complete Test Code**
-
-![](media/image-20251101102020016.png)
+![](media/image-20251101151530972.png)
 
 **4.Test Result**
 

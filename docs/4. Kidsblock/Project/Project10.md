@@ -26,15 +26,7 @@ The MCU is decoded by the received 01 signal to determine which key to press. In
 
 **3.Test Code**
 
-You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101105338975.png)
-
-![](media/image-20251101105355419.png)
-
-Complete Test Code
-
-![](media/image-20251101105436199.png)
+![](media/image-20251101152401890.png)
 
 **4.Test Result**
 
@@ -46,18 +38,6 @@ After uploading the test code successfully, turn the DIP switch to the ON end an
 
 **5.Expanded Project Use a OK button to control the seven-color LED**
 
-You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101105646251.png)
-
-![](media/image-20251101105729470.png)
-
-![](media/image-20251101105748326.png)
-
-Complete Test Code
-
-![](media/image-20251101105816371.png)
-
-![](media/image-20251101105827769.png)
+![](media/4.png)
 
 After uploading the test code successfully, turn the DIP switch to the ON end and power up. When we use the remote control to press the OK button, the LED lights up, press it again, the LED will go off.

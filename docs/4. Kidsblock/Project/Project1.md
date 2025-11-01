@@ -22,13 +22,7 @@ The two seven-color LEDs are controlled by triode respectively, and the signal e
 
 **3.Test Code**
 
-You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101092342990.png)
-
- Complete Test Code
-
-![](media/image-20251101092420459.png)
+![](media/image-20251101145653863.png)
 
 **4.Test Result**
 

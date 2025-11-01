@@ -18,13 +18,7 @@ When the first 24bit data extracted by the first pixel, which will be sent to th
 
 **3.Test Code**
 
- You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101093556728.png)
-
-**Complete Test Code**
-
-![](media/image-20251101093633473.png)
+![](media/image-20251101145821479.png)
 
 **4.Test Result**
 
@@ -32,14 +26,6 @@ After uploading the code and turn the DIP switch to the ON end and power on, we 
 
 **5.Expanded Project Flowing Water Light**
 
-You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101093828643.png)
-
-![](media/image-20251101093856829.png)
-
- Complete Test Code
-
-![](media/image-20251101093928912.png)
+![](media/image-20251101150001493.png)
 
 Once the code has been uploaded successfully, we will see four LEDs showing the flowing light in a random color.

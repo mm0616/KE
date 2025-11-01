@@ -12,19 +12,7 @@ In this project, we will work to control the car using an IR remote control.
 
 **3.Test Code**
 
-You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101110311910.png)
-
-![](media/image-20251101110345507.png)
-
-![](media/image-20251101110402400.png)
-
-Complete Test Code
-
-![](media/image-20251101110424710.png)
-
-![](media/image-20251101110444356.png)
+![](media/5.png)
 
 **4.Test Result**
 

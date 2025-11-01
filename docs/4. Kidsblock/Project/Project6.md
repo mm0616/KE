@@ -8,25 +8,9 @@ In this project we will make a line tracking smart car. It works to use a line t
 
 **2.Flow Diagram**
 
-![](media/image-20251101100712785.png)
+![](media/image-20251101100712785.png)**3.Test Code**
 
-**3.Test Code**
-
-You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101100759193.png)
-
-![](media/image-20251101100826409.png)
-
-![](media/image-20251101100844765.png)
-
- Complete Test Code
-
-![](media/image-20251101101211080.png)
-
-![](media/image-20251101101232386.png)
-
-![](media/image-20251101101249209.png)
+![](media/1.png)
 
 **4.Test Result**
 

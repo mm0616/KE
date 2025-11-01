@@ -20,15 +20,7 @@ Each chip controls 4 pins, and 2 pins control one motor.
 
 **3.Test Code**
 
-You can drag blocks to edit. Blocks listed below are for your reference.
-
-![](media/image-20251101095109548.png)
-
-![](media/image-20251101095126900.png)
-
- Complete Test Code
-
-![](media/image-20251101095151038.png)
+![](media/image-20251101150729072.png)
 
 **4.Test Result**
 
