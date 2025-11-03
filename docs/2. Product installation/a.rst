@@ -1,306 +1,271 @@
-2. Product installation
-=======================
+Follow the assembly steps below to build your own robot, believe you
+will be full of delight to experience the robot DIY. If still confused,
+you are able to see the assembly video.
 
-Part 1
-~~~~~~
+Begin with the KEYBOT body part. Firstly, you should prepare the
+components as follows:
 
-**Components Needed**
+.. figure:: media/118cbc211d0139e026c4c58060f92cef.jpeg
+   :alt: \_DSC0004
 
-|image1|
+   \_DSC0004
 
-**Installation Diagram**
+- Keyestudio KEYBOT body holder \*1
+- M3*8 stainless steel inner hex screw \*4
+- M3*40mm double-pass copper pillar \*4
 
-|image2|
+Then, fix the four M3*8 screws and four M3*40mm copper pillars on the
+KEYBOT body holder.
 
-**Prototype**
+|\_DSC0004|\ |\_DSC0005|
 
-|image3|
+Install the motors for the robot, and prepare the components as follows:
 
-Part 2
-~~~~~~
+- Gear motor \*2
 
-**Components Needed**
+- M3*30MM round-head screw \*4
 
-|image4|
+- M3 Nickel plated nut \*4
 
-**Installation Diagram**
+.. figure:: media/2aebf4378150c18e07afab77a2b693ee.jpeg
+   :alt: \_DSC0010
 
-|image5|
+   \_DSC0010
 
-**Prototype**
+Firstly, place the KEYBOT body holder as below. Mount the gear motor
+with short lead on the left of holder, and mount another motor with
+longer lead on the right of holder.
 
-|image6|
+.. figure:: media/0fc8f00ca39e7e419f0e9e608a901b31.jpeg
+   :alt: \_DSC0020
 
-Part 3
-~~~~~~
+   \_DSC0020
 
-**Components Needed**
+Completed the above assembly, let’s install the wheels for the KEYBOT.
 
-|image7|
+- 6515 wheel \*2
 
-**Installation Diagram**
+Mount the two 6515 wheels into the two gear motors.
 
-|image8|
+.. figure:: media/1ea8fc63891b7ffbe91c7c8bbd72fbdb.jpeg
+   :alt: \_DSC0022
 
-**Prototype**
+   \_DSC0022
 
-|image9|
+.. figure:: media/2f58b501f3002038255081d94e54332f.jpeg
+   :alt: \_DSC0024
 
-Part 4
-~~~~~~
+   \_DSC0024
 
-**Set the angle of the servo to 90°**
+Now you should install the particular eye for the robot, i.e. Ultrasonic
+module. You should prepare the components as follows:
 
-====== ===============
-Servo  Expansion Board
-====== ===============
-Brown  G
-Red    5V
-Yellow D9
-====== ===============
+- M3*8 stainless steel hex screw \*2
 
-To adjust the code of the servo,please select it according to the
-course.
+- M3 Nickel plated nut \*2
 
-1.\ **Arduino:**\ Download the code file: :download:`Arduino <./Arduino.7z>`
+- Ultrasonic Sensor*1
 
-2.\ **Kidsblock:**\ Download the code file: :download:`Kidsblock <./Kidsblock.7z>`
+  .. figure:: media/d70ae5ddc486a2a04eda334b3edc8a34.jpeg
+     :alt: \_DSC0026
 
-**Components Needed**
+     \_DSC0026
 
-|image10|
+Mount the Ultrasonic sensor on the KEYBOT body holder using two M3*8
+screws and two M3 Nuts.
 
-**Installation Diagram(mind the installation direction)**
+.. figure:: media/f1b8ae54984a305878c5910fc9a4c8a4.jpeg
+   :alt: \_DSC0027
 
-|image11|
+   \_DSC0027
 
-**Prototype**
+.. figure:: media/4d9f077140510c3cbd63933195997f78.jpeg
+   :alt: \_DSC0032
 
-|image12|
+   \_DSC0032
 
-Part 5
-~~~~~~
+In the following section, assemble the line tracking sensor and W420
+steel ball wheel.
 
-**Components Needed**
+- M3*10MM stainless steel hex screw \*2
 
-|image13|
+- M3 Nickel plated nut \*2
 
-**Installation Diagram**
+- Line tracking sensor \*1
 
-|image14|
+- W420 steel universal wheel \*1
 
-**Prototype**
+.. figure:: media/0027123020bb6631386cce42f47e9904.jpeg
+   :alt: \_DSC0034
 
-|image15|
+   \_DSC0034
 
-Part 6
-~~~~~~
+Firstly mount the line tracking sensor on the bottom of KEYBOT body
+holder with two M3*10 screws.
 
-**Components Needed**
+.. figure:: media/de8bdaed508782953abe7cd7c9b8cad5.jpeg
+   :alt: \_DSC0036
 
-|image16|
+   \_DSC0036
 
-**Installation Diagram**
+Then fix the W420 wheel to the line tracking sensor with two M3 Nuts, as
+shown below.
 
-|image17|
+.. figure:: media/31ff490783fcea5074ceb60a38bc584d.jpeg
+   :alt: \_DSC0037
 
-**Prototype**
+   \_DSC0037
 
-|image18|
+Fix the battery case on the KEYBOT body holder. Here you can choose
+the18650 2-cell battery case or 6-cell AA battery case. The assembly
+method for 18650 2-cell battery case as below.
 
-Part 7
-~~~~~~
+- M3*8MM flat-head screw \*2
 
-**Components Needed**
+- M3 Nickel plated nut \*2
 
-|image19|
+- 18650 2-cell battery case \*1
 
-**Installation Diagram(mind the direction of the motor)**
+.. figure:: media/dc89b6a44324468220f65d830c9ea509.jpeg
+   :alt: \_DSC0040
 
-|image20|
+   \_DSC0040
 
-**Prototype**
+Mount the 2-cell battery case on the back of KEYBOT body holder with two
+M3*8MM flat-head screws and two M3 Nuts.
 
-|image21|
+.. figure:: media/7e139a7df6dc2acbbfeb3f55032e160f.jpeg
+   :alt: \_DSC0041
 
-Part 8
-~~~~~~
+   \_DSC0041
 
-**Components Needed**
+.. figure:: media/1ee28d58ac3f005aaa5acaff44cb6be9.jpeg
+   :alt: \_DSC0046
 
-|image22|
+   \_DSC0046
 
-**Installation Diagram**
+If you would like to install the 6-cell AA battery case, you can refer
+to below.
 
-**(Pay attention to the installation direction of the mecanum wheels)**
+- 6-cell AA battery case \*1
 
-|image23|
+.. figure:: media/515867f104014bcd5f523af056e0d91c.png
+   :alt: 4 case
 
-**Prototype**
+   4 case
 
-|image24|
+.. figure:: media/299dfb5b3e520480644fb448cc8f9786.png
+   :alt: 4 case-
 
-Part 9
-~~~~~~
+   4 case-
 
-**Components Needed**
+Here we install the 18650 2-cell battery case for the KEYBOT. So we will
+take the KEYBOT installed with 18650 battery case as example to start
+the following project sections.
 
-|image25|
+- Completed the above assembly, then fix the KEYBOT control board on the
+  robot body holder.
 
-**Installation Diagram**
+- M3*15+6MM single-pass copper pillar \*4
 
-|image26|
+- KEYBOT control board \*1
 
-**Prototype**
+.. figure:: media/8021033a376412af12df53370d80a9d6.jpeg
+   :alt: \_DSC0049
 
-|image27|
+   \_DSC0049
 
-Part 10
-~~~~~~~
+Mount the KEYBOT control board on the top of KEYBOT body holder with
+four M3*25+5MM single-pass copper pillars.
 
-**Components Needed**
+.. figure:: media/feeb01cdff82c32f4ceacd19f48de2a5.jpeg
+   :alt: \_DSC0051
 
-|image28|
+   \_DSC0051
 
-**Installation Diagram**
+Next step is to install the Acrylic top panel on the control board.
 
-|image29|
+- M3*10MM stainless steel hex screw \*4
 
-**Prototype**
+- Acrylic top panel \*1
 
-|image30|
+.. figure:: media/a2b347784aaa1dd38cfa318d6cea80e2.jpeg
+   :alt: \_DSC0054
 
-**Insert a Bluetooth module**
+   \_DSC0054
 
-|image31|
+Mount the Acrylic top panel onto the control board with four M3*10MM
+screws.
 
-Wiring Diagram
-~~~~~~~~~~~~~~
+.. figure:: media/b0b291da4ac4fa2ea83cae74199086b1.jpeg
+   :alt: \_DSC0055
 
-**The wiring of the ultrasonic module**
+   \_DSC0055
 
-========== ======================
-ultrasonic Sensor expansion board
-========== ======================
-Vcc        V
-Trig       D12
-Echo       D13
-Gnd        G
-========== ======================
+Till now, the robot parts are installed well. Final step is to connect
+the wire.
 
-|image32|
+- 6P6C RJ11 cable 10CM \*1
 
-|image33|
+- 6P6C RJ11 cable 20CM \*1
 
-**The wiring of the servo**
+.. figure:: media/58f60dd6f997a61b3326763b80294e54.jpeg
+   :alt: \_DSC0062
 
-====== ======================
-Servo  Sensor expansion board
-====== ======================
-Brown  G
-Red    5V
-Orange D9
-====== ======================
+   \_DSC0062
 
-|image34|
+**Hookup Guide:**
 
-**The wiring of controlling the IR receiver**
+1. Connect the both ultrasonic sensor and line tracking sensor to KETBOT
+   control board.
 
-|image35|
+2. Connect the ultrasonic sensor to the connector A0-D2 using the RJ11
+   cable 10cm.
 
-============ ===============
-Driver Board Expansion Board
-============ ===============
-GND          G
-5V           5V
-S5           A3
-============ ===============
+3. Connect the line tracking sensor to the connector A1-A2-A3 using the
+   RJ11 cable 20cm.
 
-**The wiring of controlling the RGB2812 LED**
+4. Connect the motor with short lead to MA, and connect another motor
+   with longer lead to MB.
 
-|image36|
+5. The battery case is connected to the DC-IN connector of control
+   board.
 
-============ ===============
-Driver Board Expansion Board
-============ ===============
-GND          G
-5V           5V
-S4           D10
-============ ===============
+.. figure:: media/e3c42f8c510e8abfa8113d39e6fffbe3.jpeg
+   :alt: KS0353 9
 
-**The wiring of controlling motors and 7-color LEDs**
+   KS0353 9
 
-|image37|
+.. figure:: media/78864bf8fc1e9a999a6042a955e7c422.jpeg
+   :alt: \_DSC0066
 
-============ ===============
-Driver Board Expansion Board
-============ ===============
-SCL          D2
-SDA          D3
-5V           D5
-GND          D4
-============ ===============
+   \_DSC0066
 
-**The wiring of controlling the line-tracking sensor**
+.. figure:: media/d6811e347372dc54ce20465e1cb98bc8.jpeg
+   :alt: \_DSC0071
 
-|image38|
+   \_DSC0071
 
-============ ===============
-Driver Board Expansion Board
-============ ===============
-S1           A2
-S2           A1
-S3           A0
-5V           5V
-GND          G
-============ ===============
+.. figure:: media/428c342bd4d377d4e65d8fd7425bb4d9.jpeg
+   :alt: \_DSC0072
 
-**Connect the motors to the corresponding interface as shown in the
-figure**
+   \_DSC0072
 
-|image39|
+Finally, plug the **HC-06 Bluetooth module** into the control board.
+(Note: please first program the module as the Bluetooth project
+mentioned below, then plug it into the board.)
 
-**Installation of batteries**
+.. figure:: media/fefb834d2990dfc38b3a9cb0cb89da00.jpeg
+   :alt: ks0353-10
 
-|image40|
+   ks0353-10
 
-.. |image1| image:: media/wps1.jpg
-.. |image2| image:: media/wps2.jpg
-.. |image3| image:: media/wps3.jpg
-.. |image4| image:: media/wps4.jpg
-.. |image5| image:: media/wps5.jpg
-.. |image6| image:: media/wps6.jpg
-.. |image7| image:: media/wps7.png
-.. |image8| image:: media/wps8.jpg
-.. |image9| image:: media/wps9.jpg
-.. |image10| image:: media/wps10.jpg
-.. |image11| image:: media/wps11.jpg
-.. |image12| image:: media/wps12.jpg
-.. |image13| image:: media/wps13.jpg
-.. |image14| image:: media/wps14.jpg
-.. |image15| image:: media/wps15.jpg
-.. |image16| image:: media/wps16.jpg
-.. |image17| image:: media/wps17.jpg
-.. |image18| image:: media/wps18.jpg
-.. |image19| image:: media/wps19.jpg
-.. |image20| image:: media/wps20.jpg
-.. |image21| image:: media/wps21.jpg
-.. |image22| image:: media/wps22.jpg
-.. |image23| image:: media/wps23.jpg
-.. |image24| image:: media/wps24.jpg
-.. |image25| image:: media/wps25.jpg
-.. |image26| image:: media/wps26.jpg
-.. |image27| image:: media/wps27.jpg
-.. |image28| image:: media/wps28.jpg
-.. |image29| image:: media/wps29.jpg
-.. |image30| image:: media/wps30.jpg
-.. |image31| image:: media/wps31.jpg
-.. |image32| image:: media/wps32.png
-.. |image33| image:: media/wps33.png
-.. |image34| image:: media/wps34.jpg
-.. |image35| image:: media/wps35.png
-.. |image36| image:: media/wps36.png
-.. |image37| image:: media/wps37.png
-.. |image38| image:: media/wps38.png
-.. |image39| image:: media/wps39.png
-.. |image40| image:: media/wps40.jpg
+Congratulations! You have completed the KEYBOT robot installation.
+
+.. figure:: media/6362403ac999f9db47570eebc8f09be1.jpeg
+   :alt: ks0353-8
+
+   ks0353-8
+
+.. |\_DSC0004| image:: media/f690623cf8632aeb0ff8428b2a7a91ee.jpeg
+.. |\_DSC0005| image:: media/c6b943ec4cbabde6cbba804a1e3b4188.jpeg
