@@ -7,7 +7,7 @@
 Arduino information contains library files and project code ,please
 click to download for follow-up study.
 
-Data download: `Arduino <./Arduino.7z>`__
+Data download:  :download:`Arduino <./Arduino.7z>`
 
 APP download:
 
@@ -70,10 +70,6 @@ this process!
     Project/Project10
     Project/Project11
     Project/Project12
-   
-
-
-
 
 
 .. |image1| image:: media/1.gif

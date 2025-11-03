@@ -7,7 +7,7 @@
 Scratch information contains project ,please click to download for
 follow-up study.
 
-Data download： `Data download <./Kidsblock.7z>`__
+Data download：  :download:`Data download <./Kidsblock.7z>`
 
 APP download:
 
@@ -61,7 +61,6 @@ Note: If your development board is not the driver of CH340, there will
 be a prompt of CH340 failure as shown in the picture, please close the
 interface directly and upload the code.
 
-
 4.5 Project
 -----------
 
@@ -81,6 +80,7 @@ interface directly and upload the code.
     Project/Project10
     Project/Project11
     Project/Project12
+
 
 .. |image1| image:: media/1.gif
 .. |image2| image:: media/2.gif

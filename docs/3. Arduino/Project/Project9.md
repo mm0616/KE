@@ -74,7 +74,7 @@ int get_distance(void)//Ultrasonicdetectsthedistance
     digitalWrite(TrigPin,LOW);
     dis= pulseIn(EchoPin,HIGH)/58.2;   //Work out the distance
     delay(30);
-    returndis;
+    return dis;
 }
 ```
 
