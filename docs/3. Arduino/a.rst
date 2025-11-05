@@ -40,7 +40,7 @@ other is non-installed version.
 For simple installed version, first click Windows Installer, you will
 get the following page.
 
-.. figure:: media/87d68bf0f659efd12d5a2421f3b0985b.jpeg
+.. figure:: ./media/87d68bf0f659efd12d5a2421f3b0985b.jpeg
    :alt: operating system
 
    operating system
@@ -61,21 +61,21 @@ ARDUINO program to start it.
 
 Install Arduino with the exe. Installation package.
 
-.. figure:: media/0410a9a2e63c51fee1d04b59041a2884.jpeg
+.. figure:: ./media/0410a9a2e63c51fee1d04b59041a2884.jpeg
    :alt: Arduino Setup 1
 
    Arduino Setup 1
 
 Click **“I Agree”** to see the following interface.
 
-.. figure:: media/7bbc90969d7a44f397e0d63428e87c82.jpeg
+.. figure:: ./media/7bbc90969d7a44f397e0d63428e87c82.jpeg
    :alt: Arduino Setup 2
 
    Arduino Setup 2
 
 Click **“Next”**. Pop up the interface below.
 
-.. figure:: media/567d62b3dfce772c3e969c653651f6ad.jpeg
+.. figure:: ./media/567d62b3dfce772c3e969c653651f6ad.jpeg
    :alt: Arduino Setup 3
 
    Arduino Setup 3
@@ -85,7 +85,7 @@ the directory you want.
 
 Then click “Install” to initiate installation.
 
-.. figure:: media/69d2c16b683d24d8c03109c853905f97.jpeg
+.. figure:: ./media/69d2c16b683d24d8c03109c853905f97.jpeg
    :alt: Arduino Setup 4
 
    Arduino Setup 4
@@ -93,7 +93,7 @@ Then click “Install” to initiate installation.
 Wait for the installing process, if appear the interface of Window
 Security, just continue to click Install to finish the installation.
 
-.. figure:: media/4201c1f8cfe13dad71fac63ae275820c.png
+.. figure:: ./media/4201c1f8cfe13dad71fac63ae275820c.png
    :alt: Arduino1.5.6- setup 5
 
    Arduino1.5.6- setup 5
@@ -101,7 +101,7 @@ Security, just continue to click Install to finish the installation.
 All right, up to now, you have completed the Arduino setup! The
 following icon will appear on your PC desktop.
 
-.. figure:: media/2fbd15be3868df7eb1654b0981c34f79.png
+.. figure:: ./media/2fbd15be3868df7eb1654b0981c34f79.png
    :alt: software
 
    software
@@ -120,7 +120,7 @@ First of all, open the unzipped folder of ARDUINO development software
 and click icon of ARDUINO to open the software, as the figure shown
 below.
 
-.. figure:: media/2c82284035d2ecf2f07f2f05f01255d6.png
+.. figure:: ./media/2c82284035d2ecf2f07f2f05f01255d6.png
    :alt: arduino 5
 
    arduino 5
@@ -166,7 +166,7 @@ hardware serial port).
 Before showing you how to upload the code to your board, you can check
 the function of each icon on the Tool bar of Arduino IDE listed below:
 
-.. figure:: media/29f46713e687c2599b13e9f612d39bc9.png
+.. figure:: ./media/29f46713e687c2599b13e9f612d39bc9.png
    :alt: IDE
 
    IDE
@@ -273,7 +273,7 @@ versus the time that the signal spends off.
 The Arduino UNO has totally 6 PWM outputs, which are Digital 3, 5, 6, 9,
 10 and 11.These PWM pins can be used as Digital output or Analog output.
 
-.. figure:: media/54ef6da144b4531dd9ada686a7e67c56.GIF
+.. figure:: ./media/54ef6da144b4531dd9ada686a7e67c56.GIF
    :alt: pwm
 
    pwm
@@ -292,7 +292,7 @@ Wiring Diagram
 
 Below is a wiring diagram used to control the LED brightness.
 
-.. figure:: media/a52bb27df5cb8b00867b9cab90fa04c8.jpeg
+.. figure:: ./media/a52bb27df5cb8b00867b9cab90fa04c8.jpeg
    :alt: KS0353 1
 
    KS0353 1
@@ -331,7 +331,7 @@ The frequency of the PWM signal on most pins is approximately 490 Hz.
 Furthermore, in the motor driving project below, it also involves the
 PWM.
 
-.. figure:: media/30c9b71068315ced38aa8a4f67bc4f2a.jpeg
+.. figure:: ./media/30c9b71068315ced38aa8a4f67bc4f2a.jpeg
    :alt: ks0353- result 1
 
    ks0353- result 1
@@ -360,7 +360,7 @@ the detection sensitivity of the sensor. The sensitivity is the best
 when the S1, S2 and S3 are adjusted to make the LEDs between on and off
 state.
 
-.. figure:: media/d87f2100ef6cd3f815597a6048cbc42d.jpeg
+.. figure:: ./media/d87f2100ef6cd3f815597a6048cbc42d.jpeg
    :alt: KEYBOT tracking sensor
 
    KEYBOT tracking sensor
@@ -383,7 +383,7 @@ board. Then connect the white Piranha LED module to the plug D9. When
 the sensor of any channel detects a white object, a LED on the module
 will light up.
 
-.. figure:: media/83cf04e3518868f7008b058ab63ea89f.jpeg
+.. figure:: ./media/83cf04e3518868f7008b058ab63ea89f.jpeg
    :alt: KS0353 2
 
    KS0353 2
@@ -444,7 +444,7 @@ Upload well the code to the board, if pick up a white object close to
 the tracking module, you should see the white LED module light up. Shown
 below.
 
-.. figure:: media/4ddbad742649add6ab8e0f26250310ca.jpeg
+.. figure:: ./media/4ddbad742649add6ab8e0f26250310ca.jpeg
    :alt: ks0353- result 2
 
    ks0353- result 2
@@ -545,7 +545,7 @@ The output voltage of Arduino Digital port has only LOW and HIGH level
 
 **PWM analog output**
 
-.. figure:: media/54ef6da144b4531dd9ada686a7e67c56.GIF
+.. figure:: ./media/54ef6da144b4531dd9ada686a7e67c56.GIF
    :alt: pwm
 
    pwm
@@ -616,7 +616,7 @@ on the board, finally you should see the two motors turn forward for 1
 second, stop for 1 second and then reverse for 1 second, stop for 1
 second, repeatedly.
 
-.. figure:: media/3c83cddc5df9d2d2053df5572f0102de.jpeg
+.. figure:: ./media/3c83cddc5df9d2d2053df5572f0102de.jpeg
    :alt: ks0353- result 3
 
    ks0353- result 3
@@ -666,7 +666,7 @@ This is a simple line tracking KEYBOT.
 Connect the tracking sensor, two motors and battery to the control board
 as follows.
 
-.. figure:: media/8366bc1258b7789000f5839b07c74e7f.jpeg
+.. figure:: ./media/8366bc1258b7789000f5839b07c74e7f.jpeg
    :alt: KS0353 4
 
    KS0353 4
@@ -827,7 +827,7 @@ As the following picture shown, it is our KEYBOT ultrasonic module. It
 has two somethings like eyes. One is transmitting end, the other is
 receiving end.
 
-.. figure:: media/3cab33c105a69f67caf225ecad9fc00f.jpeg
+.. figure:: ./media/3cab33c105a69f67caf225ecad9fc00f.jpeg
    :alt: 清单
 
    清单
@@ -851,7 +851,7 @@ receiving end.
 Connect the ultrasonic module to the control board with only a 6P6C RJ11
 cable. Shown as below.
 
-.. figure:: media/25cdd9d8e5196168781849deb5d45d9f.jpeg
+.. figure:: ./media/25cdd9d8e5196168781849deb5d45d9f.jpeg
    :alt: KS0353 5
 
    KS0353 5
@@ -966,7 +966,7 @@ Connect the ultrasonic module to control board with only an RJ11 cable.
 And separately connect two motors and batteries to the board. Shown as
 below.
 
-.. figure:: media/690ca404bde5d7130ac16d3761fd21c6.jpeg
+.. figure:: ./media/690ca404bde5d7130ac16d3761fd21c6.jpeg
    :alt: KS0353 6
 
    KS0353 6
@@ -1126,7 +1126,7 @@ overbearing man, letting the subordinates obey the order without any
 nonsense. So in such situation, it is enough to use the HC-06 module
 shown as below.
 
-.. figure:: media/ff78058e7886887a9847bc6589765dc5.jpeg
+.. figure:: ./media/ff78058e7886887a9847bc6589765dc5.jpeg
    :alt: hc-06
 
    hc-06
@@ -1163,7 +1163,7 @@ receives a signal sent by phone, control the LED module on and off.
 First of all connect the LED module and battery to control board, and
 then directly plug the Bluetooth module into the Bluetooth header.
 
-.. figure:: media/ff362f507835c1051cc10bf7f74a0288.jpeg
+.. figure:: ./media/ff362f507835c1051cc10bf7f74a0288.jpeg
    :alt: KS0353 7
 
    KS0353 7
@@ -1229,7 +1229,7 @@ Done connecting, an LED on the Bluetooth module is always on. If enter
 the letter *a* on the Bluetooth APP, the LED connected on the pin 11 is
 on; if enter the letter *b*, the LED will be off.
 
-.. figure:: media/ebc5899972e2a5312980844f352c72d2.jpeg
+.. figure:: ./media/ebc5899972e2a5312980844f352c72d2.jpeg
    :alt: q
 
    q
@@ -1260,7 +1260,7 @@ https://drive.google.com/open?id=1g-bwP1SyJVfQseywRORQ6rOJOVd3JU5i
 
 The interface of this APP is very simple, as shown below.
 
-.. figure:: media/5d7932d4748d03219e315e9ce2dbac9c.jpeg
+.. figure:: ./media/5d7932d4748d03219e315e9ce2dbac9c.jpeg
    :alt: Bluetooth
 
    Bluetooth
@@ -1304,7 +1304,7 @@ module into control board. Connect the motor with longer wire to MB,
 while another motor with short wire is connected to MA. Then connect the
 batteries to DC-IN.
 
-.. figure:: media/858d36f8b386b9277a41a106e4b93a0f.jpeg
+.. figure:: ./media/858d36f8b386b9277a41a106e4b93a0f.jpeg
    :alt: KS0353 8
 
    KS0353 8
@@ -1397,23 +1397,23 @@ freely.
 
 |image15|
 
-.. |image1| image:: media/03bcbac0c292a11cc4969884a260c24e.png
-.. |image2| image:: media/c4beb46eae68ef824353b8cc72a19768.png
-.. |image3| image:: media/95bb95aac8d2e5b92e8bfb5f6d3c3177.png
-.. |image4| image:: media/81ed11f0705f918d1457cb772e41719f.png
-.. |Arduino 1.8.5| image:: media/30fa40d2a88941da2ba013cfe38a6d30.png
-.. |image5| image:: media/9734cce655eaba2646ef8b74e6bb7460.png
-.. |image6| image:: media/00176d2bb73967f0295a5f61e88c04e1.png
-.. |image7| image:: media/42b28476abc3d8b9b8845afb71a3a466.png
-.. |arduino 1-8-5 port| image:: media/38e8a9778a86c754ca60fde89d66288e.png
-.. |KS0353 1| image:: media/a52bb27df5cb8b00867b9cab90fa04c8.jpeg
-.. |image8| image:: media/71d7359e5e227e71ff7deb2587aff7a0.jpeg
-.. |image9| image:: media/3ce1040cb3dd88b0908ad2ba3dc01e23.jpeg
-.. |image10| image:: media/694c32cb84a9238042869a4a633683a4.png
-.. |image11| image:: media/5152514e-5b4a-4493-bc0c-294e160b168c.png
-.. |image12| image:: media/b9a6dce2003dbd62a9d6d1d51c805b75.jpeg
-.. |image13| image:: media/de872b5679402d71cf9bc7cd304ade4a.png
-.. |BTClient| image:: media/d170de166bfa80090c1340bea4221659.jpeg
-.. |bluetooth-1| image:: media/80305df64791b16423690c8500797bfc.jpeg
-.. |image14| image:: media/fefaa18f35e1a18cf58d5d2afe08f688.png
-.. |image15| image:: media/19469a41d4875f8c14d93f4c8af6120c.jpeg
+.. |image1| image:: ./media/03bcbac0c292a11cc4969884a260c24e.png
+.. |image2| image:: ./media/c4beb46eae68ef824353b8cc72a19768.png
+.. |image3| image:: ./media/95bb95aac8d2e5b92e8bfb5f6d3c3177.png
+.. |image4| image:: ./media/81ed11f0705f918d1457cb772e41719f.png
+.. |Arduino 1.8.5| image:: ./media/30fa40d2a88941da2ba013cfe38a6d30.png
+.. |image5| image:: ./media/9734cce655eaba2646ef8b74e6bb7460.png
+.. |image6| image:: ./media/00176d2bb73967f0295a5f61e88c04e1.png
+.. |image7| image:: ./media/42b28476abc3d8b9b8845afb71a3a466.png
+.. |arduino 1-8-5 port| image:: ./media/38e8a9778a86c754ca60fde89d66288e.png
+.. |KS0353 1| image:: ./media/a52bb27df5cb8b00867b9cab90fa04c8.jpeg
+.. |image8| image:: ./media/71d7359e5e227e71ff7deb2587aff7a0.jpeg
+.. |image9| image:: ./media/3ce1040cb3dd88b0908ad2ba3dc01e23.jpeg
+.. |image10| image:: ./media/694c32cb84a9238042869a4a633683a4.png
+.. |image11| image:: ./media/5152514e-5b4a-4493-bc0c-294e160b168c.png
+.. |image12| image:: ./media/b9a6dce2003dbd62a9d6d1d51c805b75.jpeg
+.. |image13| image:: ./media/de872b5679402d71cf9bc7cd304ade4a.png
+.. |BTClient| image:: ./media/d170de166bfa80090c1340bea4221659.jpeg
+.. |bluetooth-1| image:: ./media/80305df64791b16423690c8500797bfc.jpeg
+.. |image14| image:: ./media/fefaa18f35e1a18cf58d5d2afe08f688.png
+.. |image15| image:: ./media/19469a41d4875f8c14d93f4c8af6120c.jpeg

@@ -1,4 +1,13 @@
-|ks0353-1| ## 1.1 Description
+1. Product Introduction
+=======================
+
+.. figure:: ./media/89df325228d0c059e98d442107ffe8cf.png
+   :alt: ks0353-1
+
+   ks0353-1
+
+1.1 Description
+---------------
 
 In the near future, many things might no longer be done by ourselves
 because the robots are able to help us do many things. So what does the
@@ -33,7 +42,7 @@ your brain on an inspiring journey through the world of programming. Get
 started now!
 
 1.2 Parameters
-==============
+--------------
 
 - External power supply range: 7-12V
 
@@ -59,7 +68,7 @@ started now!
 - It can access the external voltage 7~12V.
 
 1.3 List
-========
+--------
 
 You can see a pretty beautiful packaging box for the KEYBOT, and inside
 the KEYBOT packaging you will find all the parts and screws listed
@@ -174,7 +183,7 @@ below.
 +-----+----------------+-----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 1.4 Core Part of KEYBOT
-=======================
+-----------------------
 
 The core is the part that really matters today. In fact, it is very easy
 to understand the core. In other word, the core is just like the human
@@ -188,49 +197,48 @@ of this integrated board is the same as the ARDUINO controller.
 Well, let’s first look at what every element and interface of the board
 does:
 
-.. figure:: media/4faa50cb060fa90ba32976ad0c8848af.jpeg
+.. figure:: ./media/4faa50cb060fa90ba32976ad0c8848af.jpeg
    :alt: KS0350 -pinouts
 
    KS0350 -pinouts
 
-.. |ks0353-1| image:: media/89df325228d0c059e98d442107ffe8cf.png
-.. |image-20230417152638175| image:: media/image-20230417152638175.png
-.. |image-20230417152829855| image:: media/image-20230417152829855.png
-.. |image-20230417152856960| image:: media/image-20230417152856960.png
-.. |image-20230417152905953| image:: media/image-20230417152905953.png
-.. |image-20230417152909568| image:: media/image-20230417152909568.png
-.. |image-20230417152925088| image:: media/image-20230417152925088.png
-.. |image-20230417152929686| image:: media/image-20230417152929686.png
-.. |image-20230417152936683| image:: media/image-20230417152936683.png
-.. |image-20230417152942320| image:: media/image-20230417152942320.png
-.. |image-20230417153049553| image:: media/image-20230417153049553.png
-.. |image-20230417153042623| image:: media/image-20230417153042623.png
-.. |image-20230417153118403| image:: media/image-20230417153118403.png
-.. |image-20230417153122385| image:: media/image-20230417153122385.png
-.. |image-20230417153136593| image:: media/image-20230417153136593.png
-.. |image-20230417153144721| image:: media/image-20230417153144721.png
-.. |image-20230417153206577| image:: media/image-20230417153206577.png
-.. |image-20230417153207026| image:: media/image-20230417153207026.png
-.. |image-20230417153207842| image:: media/image-20230417153207842.png
-.. |image-20230417153208643| image:: media/image-20230417153208643.png
-.. |image-20230417153209906| image:: media/image-20230417153209906.png
-.. |image-20230417153235458| image:: media/image-20230417153235458.png
-.. |image-20230417153235750| image:: media/image-20230417153235750.png
-.. |image-20230417153235913| image:: media/image-20230417153235913.png
-.. |image-20230417153236153| image:: media/image-20230417153236153.png
-.. |image-20230417153236460| image:: media/image-20230417153236460.png
-.. |image-20230417153250577| image:: media/image-20230417153250577.png
-.. |image-20230417153250850| image:: media/image-20230417153250850.png
-.. |image-20230417153250989| image:: media/image-20230417153250989.png
-.. |image-20230417153251208| image:: media/image-20230417153251208.png
-.. |image-20230417153251446| image:: media/image-20230417153251446.png
-.. |image-20230417153251678| image:: media/image-20230417153251678.png
-.. |image-20230417153251838| image:: media/image-20230417153251838.png
-.. |image-20230417153309570| image:: media/image-20230417153309570.png
-.. |image-20230417153313650| image:: media/image-20230417153313650.png
-.. |image-20230417153319810| image:: media/image-20230417153319810.png
-.. |image-20230417153323650| image:: media/image-20230417153323650.png
-.. |image-20230417153359762| image:: media/image-20230417153359762.png
-.. |image-20230417153359943| image:: media/image-20230417153359943.png
-.. |image-20230417153421426| image:: media/image-20230417153421426.png
-.. |image-20230417153425523| image:: media/image-20230417153425523.png
+.. |image-20230417152638175| image:: ./media/image-20230417152638175.png
+.. |image-20230417152829855| image:: ./media/image-20230417152829855.png
+.. |image-20230417152856960| image:: ./media/image-20230417152856960.png
+.. |image-20230417152905953| image:: ./media/image-20230417152905953.png
+.. |image-20230417152909568| image:: ./media/image-20230417152909568.png
+.. |image-20230417152925088| image:: ./media/image-20230417152925088.png
+.. |image-20230417152929686| image:: ./media/image-20230417152929686.png
+.. |image-20230417152936683| image:: ./media/image-20230417152936683.png
+.. |image-20230417152942320| image:: ./media/image-20230417152942320.png
+.. |image-20230417153049553| image:: ./media/image-20230417153049553.png
+.. |image-20230417153042623| image:: ./media/image-20230417153042623.png
+.. |image-20230417153118403| image:: ./media/image-20230417153118403.png
+.. |image-20230417153122385| image:: ./media/image-20230417153122385.png
+.. |image-20230417153136593| image:: ./media/image-20230417153136593.png
+.. |image-20230417153144721| image:: ./media/image-20230417153144721.png
+.. |image-20230417153206577| image:: ./media/image-20230417153206577.png
+.. |image-20230417153207026| image:: ./media/image-20230417153207026.png
+.. |image-20230417153207842| image:: ./media/image-20230417153207842.png
+.. |image-20230417153208643| image:: ./media/image-20230417153208643.png
+.. |image-20230417153209906| image:: ./media/image-20230417153209906.png
+.. |image-20230417153235458| image:: ./media/image-20230417153235458.png
+.. |image-20230417153235750| image:: ./media/image-20230417153235750.png
+.. |image-20230417153235913| image:: ./media/image-20230417153235913.png
+.. |image-20230417153236153| image:: ./media/image-20230417153236153.png
+.. |image-20230417153236460| image:: ./media/image-20230417153236460.png
+.. |image-20230417153250577| image:: ./media/image-20230417153250577.png
+.. |image-20230417153250850| image:: ./media/image-20230417153250850.png
+.. |image-20230417153250989| image:: ./media/image-20230417153250989.png
+.. |image-20230417153251208| image:: ./media/image-20230417153251208.png
+.. |image-20230417153251446| image:: ./media/image-20230417153251446.png
+.. |image-20230417153251678| image:: ./media/image-20230417153251678.png
+.. |image-20230417153251838| image:: ./media/image-20230417153251838.png
+.. |image-20230417153309570| image:: ./media/image-20230417153309570.png
+.. |image-20230417153313650| image:: ./media/image-20230417153313650.png
+.. |image-20230417153319810| image:: ./media/image-20230417153319810.png
+.. |image-20230417153323650| image:: ./media/image-20230417153323650.png
+.. |image-20230417153359762| image:: ./media/image-20230417153359762.png
+.. |image-20230417153359943| image:: ./media/image-20230417153359943.png
+.. |image-20230417153421426| image:: ./media/image-20230417153421426.png
+.. |image-20230417153425523| image:: ./media/image-20230417153425523.png
