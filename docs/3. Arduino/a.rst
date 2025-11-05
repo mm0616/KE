@@ -1,5 +1,5 @@
 3.1 Data download
-~~~~~~~~~~~~~~~~~
+-----------------
 
 Please note: The library files and code used by Arduino are available
 for download only at this location. No further download options will be
@@ -8,16 +8,13 @@ provided thereafter.
 Data download: :download:`Arduino Data <./Arduino.zip>`
 
 3.2 Software Download
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 When you get the control board, first you should install the Arduino
 software and driver.
 
-You can see all the Arduino software versions from the link below:
-https://www.arduino.cc/en/Main/OldSoftwareReleases#1.5.x
-
-Or you can browse the ARDUINO website at this link,
-https://www.arduino.cc, pop up the following interface.
+you can browse the ARDUINO website at this link, https://www.arduino.cc,
+pop up the following interface.
 
 |image1|
 
@@ -191,11 +188,11 @@ the function of each icon on the Tool bar of Arduino IDE listed below:
 |                                         | Arduino                    |
 +-----------------------------------------+----------------------------+
 
-3.3 Project(1)
---------------
+3.3 Project
+-----------
 
 Project 1: Light up LED
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 **Introduction**
 
@@ -247,7 +244,7 @@ one second, then off for one second, repeatedly. Congrats! The first
 program is completed successfully.
 
 Project 2: LED Brightness Controlled by PWM
--------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Introduction**
 
@@ -340,7 +337,7 @@ PWM.
    ks0353- result 1
 
 Project 3: KEYBOT Line Tracking Robot
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Principle and Application of Line Tracking Sensor
 
@@ -453,7 +450,7 @@ below.
    ks0353- result 2
 
 Project 4: Motor Driving and Speed Control
-------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Introduction**
 
@@ -625,7 +622,7 @@ second, repeatedly.
    ks0353- result 3
 
 Project 5: KEYBOT Line Following
---------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Introduction**
 
@@ -801,7 +798,7 @@ ground, the KEYBOT will follow the black line.
 |image9|
 
 Project 6: KEYBOT Avoiding Obstacles
-------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Principle and Application of Ultrasonic Module
 
@@ -923,7 +920,7 @@ an obstacle ahead, on the monitor you should see the distance between
 the sensor and an obstacle, displaying every 0.5 second.
 
 Project 7: KEYBOT Avoiding Obstacle
------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Introduction
 
@@ -1106,7 +1103,7 @@ Done uploading the code to the board, then power it with DC 7-12V. Turn
 on the larger slide switch on the board, if place an obstacle in front
 of the KEYBOT, it can automatically avoid an obstacle ahead to run.
 
-|image12| ## Project 8: Bluetooth Controlled KEYBOT
+|image12| ### Project 8: Bluetooth Controlled KEYBOT
 
 Principle and Application of Bluetooth Remote Control
 
@@ -1238,7 +1235,7 @@ on; if enter the letter *b*, the LED will be off.
    q
 
 Project 9: Bluetooth Controlled KEYBOT
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Introduction
 
