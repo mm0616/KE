@@ -5,7 +5,7 @@ Please note: The library files and code used by Arduino are available
 for download only at this location. No further download options will be
 provided thereafter.
 
-Data download: :download:`Arduino Data <./Arduino.zip>`
+Data download: :download:`Arduino Data <./Arduino.7z>`
 
 3.2 Software Download
 ---------------------
