@@ -4,7 +4,7 @@
    :caption: Contents:
 
 
-   docs/a
+   docs/a.rst
    docs/Arduino/a
    docs/Kidsblock/a
 
