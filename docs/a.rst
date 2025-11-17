@@ -11,9 +11,9 @@ språkbytet i handledningen, vänligen se följande animerade bild.**
 
 |image1|
 
-:download:`Arduino Tutorial <./Arduino/Arduino.7z>`
+ :download:`Arduino Tutorial <./Arduino/Arduino.7z>`
 
-:download:`Kidsblock Tutorial <./Kidsblock/Kidsblock.7z>`
+ :download:`Kidsblock Tutorial <./Kidsblock/Kidsblock.7z>`
 
 1. Product introduction
 =======================
