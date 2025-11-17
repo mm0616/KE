@@ -4,9 +4,9 @@
    :caption: Contents:
 
 
-   docs/1. Product Introduction/a
-   docs/2. Product installation/a
-   docs/3. Arduino/a
+   docs/1Product introduction/a
+   docs/4Arduino/a
+   docs/5Kidsblock/a
 
 
 
