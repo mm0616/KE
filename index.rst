@@ -4,7 +4,7 @@
    :caption: Contents:
 
 
-   docs/Product introduction/a
+   docs/a
    docs/Arduino/a
    docs/Kidsblock/a
 
