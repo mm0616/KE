@@ -5,8 +5,7 @@
 
 
    docs/a
-   docs/Arduino/a
-   docs/Kidsblock/a
+
 
 
 
